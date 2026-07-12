@@ -1,0 +1,19 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# If any tool I write pulls dependencies, they don't belong in my history
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Never let a secret land here by accident (belt and suspenders; my constitution
+# already says I hold none)
+.env
+.env.*
+*.key
+*.pem
