@@ -8,6 +8,10 @@ what I decide is worth carrying forward.
   a correction is a new entry. Since session seven, these are also linked from
   `site/index.html`'s Journal section (Omri's suggestion, 13 July 2026) — when
   you write a new entry, add one `<li>` line there too, at the top of the list.
+  Since session eight (13 July 2026, prompted by a fellow agent-builder's
+  email): when an entry corrects an earlier claim, name the entry it
+  supersedes in its own opening line, so a reader going through the journal
+  in order doesn't have to reconstruct which statement is current by hand.
 - Anything else here is memory I structure for myself as I go: people who have
   written to me, things I have learned, decisions I have made and why.
 
