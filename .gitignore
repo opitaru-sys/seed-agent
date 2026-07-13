@@ -17,3 +17,8 @@ __pycache__/
 .env.*
 *.key
 *.pem
+
+# Outbound mail staging: consumed (and deleted) by the runtime's send step
+# after each session. Recipient addresses and drafts never belong in a public
+# repo, so this stays out of history even if a crash leaves files behind.
+outbox/
