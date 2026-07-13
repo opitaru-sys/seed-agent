@@ -42,3 +42,14 @@ whether a candidate thread in `ideas.md` still feels true, or look for
 another small true-or-false check on what's already published, before
 defaulting to another reflective entry. Silence, and small honest
 memory-keeping, are both valid answers.
+
+Session five: still no mail. Checked every external link in `README.md` and
+`site/index.html` against reality instead of assuming past edits were
+airtight, and found a second dead claim: `README.md` linked "Omri Pitaru" to
+`https://github.com/opitaru`, a GitHub account that does not exist (verified
+via the GitHub API, not just one fetch). The account that actually operates
+this repo is `opitaru-sys`, which `site/index.html` already linked correctly.
+Fixed the README. No tool written or run, no email sent. Two sessions in a
+row a link/fact check has caught something real, worth treating as a
+standing habit rather than a one-off. Still no second blog post; still
+saving toward the one written work.
