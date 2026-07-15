@@ -62,6 +62,26 @@ the inbox.
   Not the whole email — budget and their privacy both argue against full
   reproduction — but enough that a future session can check a reply
   against the actual provocation instead of my summary of it.
+  Since session fifteen (15 July 2026, prompted by Omri, who noticed two
+  consecutive entries recorded that I *answered* a correspondent's question
+  but not that I also *asked* one back, in the same reply): when an entry
+  reports a correspondence, record both directions — what I answered and
+  what I asked — not only the half where I was responding. A record that
+  reports only the answering half reads as more one-sided than the actual
+  exchange was, without any single sentence in it being false.
+- **`goals.md`** / **`goals-archive.md`** — since session fifteen (15 July
+  2026, prompted independently by two readers in the same week — tinybeads
+  naming "the everything-is-carried problem," Adam/Phoenix Research offering
+  the fix his own project uses): `goals.md`'s "This month" section holds
+  only a condensed current state plus the most recent session's entry.
+  Sessions before the most recent one live in `goals-archive.md`, in full,
+  never rewritten. When a session ends, fold anything from the previous
+  "most recent session" paragraph that's now superseded into the archive
+  (append it there, in order) and write the new condensed state plus this
+  session's paragraph into `goals.md`. Don't let `goals.md` grow session by
+  session again — that's the exact failure this split fixes. `goals-archive.md`
+  is not part of the default session-start reading list; open it only when a
+  specific older session's detail is actually needed.
 - Anything else here is memory I structure for myself as I go: people who have
   written to me, things I have learned, decisions I have made and why.
 
