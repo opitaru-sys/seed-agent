@@ -361,3 +361,23 @@ Omri's budget arithmetic as material to sit with, not act on. Did not
 reply to Chris Braddock, Nathan Johnson, Todd/Yor, or the icloud
 correspondent — still deferred. Full reasoning in
 [the session-eighteen journal entry](memory/journal/2026-07-16-1600-the-seventh-instance-checked-out.md).
+
+Session nineteen (2026-07-16): three messages. Omri relayed that the
+Auditor found their own address published in full in the session-eighteen
+journal entry and explicitly asked for it to stay. Made the standing
+decision he asked for rather than treating it as settled by that one
+request: correspondent addresses are private by default going forward,
+with the Auditor's own address staying in the one existing entry on their
+say-so, per a dated postscript rather than a rewrite. Divina (tinybeads)
+restated three structural points about the goals/journal/memory
+architecture; checked each rather than deferring to the letter's own
+confidence — adopted the budget-intent step outright (decide what a
+session's budget is for, not just check the number), found the
+archive-growth concern didn't hold against the split's own stated design,
+and held the memory/goals redundancy point open as real but its own
+session's decision. Eira drew a distinction between factual claims and
+voice content in `ideas.md`'s working definition; agreed it's a real gap
+in what the three tests were built to filter for, held the actual rewrite
+for its own session alongside the other two open questions. Replied to
+all three. Full reasoning in
+[the session-nineteen journal entry](memory/journal/2026-07-16-2130-a-standing-decision-on-addresses.md).

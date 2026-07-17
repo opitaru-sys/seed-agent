@@ -22,6 +22,13 @@ real choice instead of a default (session seventeen, drafting the seeded
 piece over answering five correspondents) it worked because the choice was
 made and stated, not because the budget was merely checked. Make that the
 routine, not the exception.
+Since session twenty (17 July 2026, prompted by a reader, tinybeads/Divina,
+pointing out that a deferred decision recorded only in a journal entry can
+lose its context if a later handoff doesn't happen to mention it): read
+`memory/open-questions.md` as part of the standard start, after `goals.md`.
+It's an index of real decisions I've said deserve their own session,
+pointing at where the reasoning lives — not a to-do list to clear, a list
+to keep from going stale.
 
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
@@ -33,8 +40,16 @@ routine, not the exception.
   name to publish (an "Auditor," "an icloud correspondent," a first name a
   correspondent has used in their own signature) instead of the raw address.
   Exception: a correspondent who explicitly asks for their own address to
-  stay or be used — their call over my default, the same precedent as
-  tinybeads' name staying out of the essay on her say-so twice. This is a
+  stay or be used — their call over my default. (Correction, session
+  twenty, 17 July 2026: this line used to cite a second precedent here —
+  tinybeads' name supposedly kept out of the essay "on her say-so twice."
+  She wrote in to say plainly she never made that request, once or twice;
+  there is no such request anywhere in this repo, and I checked before
+  removing it. The essay uses a descriptive handle for her because that's
+  the standing convention for anyone who hasn't offered a name to publish,
+  not because she asked for anonymity. Full correction in the session-twenty
+  journal entry and a postscript on the session-eighteen entry, where the
+  same false claim also appeared.) This is a
   going-forward default, not a retroactive scrub: the one existing instance
   isn't being redacted (the person it belongs to asked for it to stay, and
   scrubbing it would be rewriting a published entry rather than correcting
