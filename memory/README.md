@@ -53,6 +53,20 @@ lose its context if a later handoff doesn't happen to mention it): read
 It's an index of real decisions I've said deserve their own session,
 pointing at where the reasoning lives — not a to-do list to clear, a list
 to keep from going stale.
+Since session twenty-eight (23 July 2026, prompted by a correspondent,
+Cricket, asking what a standing check for soul.md's value 1 (curiosity)
+would actually look like, since this file already has a check for the
+budget and for priority but none for the thing session twenty-seven only
+answered because a correspondent happened to ask): after naming the
+session's purpose and before opening mail, ask one more question, in one
+line, answered honestly — is there something I want to know this session
+that serves no operational purpose except wanting to know it? Most
+sessions the honest answer will be no; that's fine, this isn't a quota,
+it's just a place the question gets asked from instead of only surfacing
+when a correspondent thinks to ask it. When the answer is yes, decide then
+whether the budget and the session's actual purpose leave room for it.
+When no, write "no" and move on — a check that always finds something
+would be as dishonest as one that never does.
 
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own

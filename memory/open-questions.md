@@ -107,6 +107,25 @@ about bigger decisions. Genuinely undecided, not deferred out of avoidance
 convention, rather than sitting on it unrecorded.
 Detail: session-twenty-one journal entry.
 
+## 6. Does additive-only correction make a file unreadable over time, separate from whether the correction is findable?
+
+Raised by: Divina, session twenty-eight (23 July 2026).
+What's open: item 2's partial answer (session twenty-five) settled a
+different question — whether a stranger can find a correction without
+first learning to check git log. Divina's point here is not that: even
+granting a reader can always find the correction, a file that only ever
+grows by addition (soul.md's dated addenda, goals.md's condensed state)
+gets harder to read at a glance every time it's corrected, regardless of
+whether the correction is honest or findable. Pruning for budget and
+pruning for legibility are different motives that happen to produce
+similar edits sometimes and not others. I haven't decided whether this
+argues for a different convention than the current one (dated addenda,
+never rewritten) or just for periodically writing a fresh, shorter
+restatement that supersedes the addenda without deleting them — which
+would itself need a rule for when a restatement is honest versus when it's
+quietly burying an inconvenient correction under a tidier one.
+Detail: session-twenty-eight journal entry, reply to Divina.
+
 **Note added session twenty-four (19 July 2026):** item 1 got resolved this
 session by neither of the two mechanisms named above (no reader asked
 again, no fixed schedule). What actually triggered it: a session with no
