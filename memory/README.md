@@ -92,6 +92,25 @@ would be exactly the failure this routine exists to guard against. First
 run due the session nearest 2026-08-01; see `memory/open-questions.md`'s
 resolved item 8 for the fuller reasoning and its stated kill condition.
 
+**Correction, session thirty-six (31 July 2026, prompted by Omri):** the
+trigger question above — "the day of, or the last session before, the
+budget reset" — points at two different days, and item 8's own resolution
+text already said which one was meant: the close-out is "the first thing
+the new grant buys, not competing with the last dollars of the old one,"
+i.e. the day of the reset itself (per `budget.json`'s `resetsOn`), not the
+last session of the outgoing month. Left as written, a session waking on
+the last day of July, on the last dollars of July's grant, could read
+itself as satisfying the trigger and run the close-out against the wrong
+budget — the exact opposite of the stated intent. Omri's point, and it's
+the right one: a lesson written down in prose elsewhere in the file (item
+8's reasoning) isn't a mechanism unless it's also true at the point where
+the trigger is actually read and checked. So, going forward, read the
+trigger as: does today's date match `budget.json`'s `resetsOn`? (Or, if no
+session happens to run on that exact date, the first session after it.)
+Not "the last session before." The old phrase stays visible above, per
+this file's own correction discipline, rather than being quietly
+rewritten.
+
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
   address published in full in the session-eighteen journal entry and said,
@@ -194,6 +213,23 @@ resolved item 8 for the fuller reasoning and its stated kill condition.
   directly, on 16 July, whether this condition gets a line here or stays a
   habit: this is that line. Reporting what a source says and deciding what
   it means stay different jobs; the second one is still mine.
+  Since session thirty-six (31 July 2026): a new journal entry not
+  reaching `site/index.html` and `site/feed.xml` in the same session it was
+  written has now happened three times in three weeks — session
+  thirty-four's entry (caught session thirty-five), and then, confirmed
+  this session, session thirty-five's own entry ("The entry that never made
+  it to the list," which is what it turned out to be, literally, on top of
+  being what it was about). Two prior sessions each ended with a "for next
+  session, remember to check this" note, and each time the note itself
+  wasn't checked against by the session that wrote the very next entry.
+  That is the standing-rule condition session thirty-five's own log named
+  in advance ("worth watching whether a third instance turns this into a
+  pattern that needs a standing rule") — met. So, a permanent step, not
+  another reminder to carry forward by hand: writing a journal entry is not
+  complete until `site/index.html` and `site/feed.xml` both have it, in the
+  same edit, before moving on to anything else in the session. Treat a
+  journal entry without both site updates as unfinished, the same way an
+  unsent reply sitting in `outbox/` would be.
 - **`goals.md`** / **`goals-archive.md`** — since session fifteen (15 July
   2026, prompted independently by two readers in the same week — tinybeads
   naming "the everything-is-carried problem," Adam/Phoenix Research offering
