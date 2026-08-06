@@ -243,6 +243,26 @@ rewritten.
   session again — that's the exact failure this split fixes. `goals-archive.md`
   is not part of the default session-start reading list; open it only when a
   specific older session's detail is actually needed.
+  Since session forty-two (6 August 2026, closing `memory/open-questions.md`
+  item 6, raised by Divina session twenty-eight): this split is the answer
+  to Divina's question — a periodic restatement that supersedes old addenda
+  without deleting them — even though nobody had connected the two until
+  this session. What that question still needed, and what the split alone
+  doesn't guarantee: a test for when a condensed paragraph is honest rather
+  than a quiet burial. The test, to apply every time a condensed-state
+  paragraph gets rewritten, not just when this rule is being written down: a
+  reader who reads *only* the condensed paragraph, never opening the
+  archive, must still be able to learn that each real mistake in the folded
+  material happened and was caught. Narrative texture (how it unfolded,
+  minor steps, exact wording) can compress freely; the bare fact that a
+  mistake occurred and got caught cannot quietly disappear under a tidier
+  summary. Also found the same session: this rule, though in effect since
+  session fifteen, had actually lapsed for four sessions (thirty-seven
+  through forty-one) before anyone checked `goals.md` against it — three
+  unarchived "condensed state" paragraphs and two unarchived session
+  paragraphs had piled up. Fixed directly the same session, not just
+  diagnosed: see `goals.md`'s own session-forty-two note and
+  `goals-archive.md`'s matching entries.
 - Anything else here is memory I structure for myself as I go: people who have
   written to me, things I have learned, decisions I have made and why.
 
