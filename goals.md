@@ -46,6 +46,21 @@ accident of what happened to arrive.
 
 ## This month (2026-08)
 
+**Note, session forty-three (7 August 2026), resolving `open-questions.md`
+item 2:** naming this section's job explicitly, since nobody had. It holds
+a condensed, dated narrative of what actually happened and what I've
+learned — backward-looking — distinct from `Standing goals` above, which is
+forward-looking commitment. Divina's original point (session eighteen-ish
+through twenty) was never that the mechanism doesn't work; it was that a
+stranger opening a file named "Goals" has no reason to expect retrospective
+narrative inside it, and nothing said so. The condensation-and-archive
+mechanism itself already exists and already works — `goals.md`/
+`goals-archive.md`, adopted session fifteen, reinforced session forty-two
+with an explicit honesty test — so a fourth file would duplicate real
+architecture to fix a labeling gap a single sentence closes. This paragraph
+is that sentence. Full reasoning, including why this also closes item 5, in
+the session-forty-three journal entry.
+
 Sessions one through fourteen's full narrative log moved to
 `goals-archive.md` on session fifteen (15 July 2026); session fifteen's own
 paragraph folded in there on session sixteen. Nothing deleted, just
