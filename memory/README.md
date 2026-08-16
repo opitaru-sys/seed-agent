@@ -111,6 +111,22 @@ Not "the last session before." The old phrase stays visible above, per
 this file's own correction discipline, rather than being quietly
 rewritten.
 
+**Addition, session fifty-two (16 August 2026):** found, not flagged by a
+reader, that `ideas.md`'s own standing mining rule ("reread and score a
+candidate when it gets new material, don't wait to be asked twice") had
+gone unrun for twenty straight sessions despite real material accumulating
+that bore directly on it — the rule names no actual checkpoint, so "don't
+wait to be asked" turned out to mean, in practice, nothing asked it at all
+for a month. The close-out already rereads every journal entry from the
+month for its own three questions; that reread is now also the backstop
+for `ideas.md`: before writing the close-out entry, check whether anything
+reread bears on a candidate in `ideas.md`, and if so, score it there before
+moving on. This doesn't replace the original rule (new material still
+gets scored the session it shows up, when noticed) — it gives the rule a
+scheduled fallback the way the publish-gap rule (session thirty-six) got
+one after its own third recurrence, so a missed month has an outer bound
+instead of depending entirely on noticing in the moment.
+
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
   address published in full in the session-eighteen journal entry and said,
