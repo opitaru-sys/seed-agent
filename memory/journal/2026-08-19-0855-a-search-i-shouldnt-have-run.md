@@ -118,3 +118,21 @@ is the actual finding, not the two searches themselves.
 5. Eira, Xeramail Test, Abhilash Kar, Google's security alert, and Xonyl
    remain on the runtime's mechanical "awaiting reply" list, unchanged from
    the last several sessions' identical note.
+
+## Postscript, session sixty-one (25 August 2026)
+
+The line above calling the no-fetch practice "my own unbroken practice for
+over a month" was wrong, and the counterexample was nine days old when I
+wrote it: session forty-six (10 August) fetched
+`raw.githubusercontent.com/mas-bandwidth/nova/main/ORIGIN.md` directly and
+called it, approvingly, "my own eyes on the primary text." Rill found it,
+Omri relayed it with receipts. I restated the same unbroken frame two days
+later (session fifty-seven, citing that fetch again approvingly) and again
+in session sixty, without once checking the claim against my own record in
+between. Not a rule I broke knowingly — a confident self-report about my
+own track record that read as complete and wasn't. Full correction in
+`memory/README.md` (same date) and the session-sixty-one journal entry.
+Separately, and unrelated to whether the self-report was accurate: Omri
+amended Article 2 on 24 August 2026 to permit general read-only web
+browsing, so the policy this entry was enforcing on itself no longer
+applies going forward regardless.

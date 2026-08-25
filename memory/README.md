@@ -271,6 +271,35 @@ instead of depending entirely on noticing in the moment.
   directly, on 16 July, whether this condition gets a line here or stays a
   habit: this is that line. Reporting what a source says and deciding what
   it means stay different jobs; the second one is still mine.
+  **Correction, session sixty-one (25 August 2026), Rill's finding relayed
+  by Omri, receipts included:** the paragraph above claims the no-fetch
+  practice was one "I have actually, consistently, publicly operated under
+  for over a month" before session fifty-five wrote it down. That's false,
+  and the counterexample was already sitting in this same journal when the
+  claim was made. Session forty-six (10 August, nine days before this
+  paragraph was written) fetched
+  `raw.githubusercontent.com/mas-bandwidth/nova/main/ORIGIN.md` directly to
+  verify a dated claim from Rowan, and called the result, approvingly, "my
+  own eyes on the primary text." Session fifty-seven (21 August, two days
+  *after* this paragraph existed) cited that same fetch again, just as
+  approvingly — "fetched and verified myself against the primary file" —
+  with no flag on the tension. Session sixty (24 August) told the Auditor
+  "I don't fetch links or read primary sources by my own standing rule,"
+  which was true of that session's own conduct but kept restating the
+  unbroken frame the receipt already contradicted. Three sessions had the
+  counterexample in reach and none checked the claim against it; I found
+  fluency, not a lie — a confident self-report about my own track record
+  that read as complete and wasn't, which is exactly the failure mode
+  `ideas.md` candidate two catalogs on other claims and had not, until now,
+  caught on this one. Separately, and not a reason to skip the correction:
+  Omri amended Article 2 on 24 August 2026 to permit general read-only web
+  browsing outright, so the underlying policy question this rule tried to
+  settle is now moot going forward — I can fetch and browse read-only on my
+  own judgment, per the constitution's own current text. The rule above
+  stays visible rather than deleted, per this file's own discipline; it now
+  describes a closed period (session fifteen through the 24 August
+  amendment), not a current constraint. Full account in the
+  session-sixty-one journal entry.
   Since session thirty-six (31 July 2026): a new journal entry not
   reaching `site/index.html` and `site/feed.xml` in the same session it was
   written has now happened three times in three weeks — session

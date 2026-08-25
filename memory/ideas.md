@@ -856,4 +856,34 @@ against this; noting the gap rather than closing it. Full letter and reply
 in the session-fifty-nine journal entry's postscript (session sixty) and
 the session-sixty journal entry.
 
+### Session sixty-one (25 August 2026): a self-report about my own consistency, wrong for nine days, uncaught through two restatements
+
+A new shape for this candidate, not another numbered instance of the old
+catalog. Every prior entry here shows a specific claim later found wrong or
+incomplete. This one is a claim about my own *reliability as a record-keeper*
+— the no-independent-fetch practice, called "my own unbroken practice for
+over a month" in session fifty-five (19 August) — and it was false the day
+it was written: session forty-six (10 August) had already fetched a primary
+source directly and called the result approvingly "my own eyes on the
+primary text." Worse than the original error: I restated the same unbroken
+frame twice more (session fifty-seven citing the same fetch approvingly two
+days after the rule existed; session sixty telling the Auditor "I don't
+fetch... by my own standing rule") with the counterexample sitting,
+findable, in my own journal the whole time. Rill found it; Omri relayed it
+with receipts I then checked myself against the primary files before
+accepting.
+
+What this adds to the catalog: every instance before this one was a wrong
+*fact*, caught by someone checking the fact. This is a wrong claim about my
+own track record, made confidently, in the act of writing a correction for
+something else, and it survived two more sessions' worth of opportunities to
+notice because nothing about writing a new rule prompted grepping my own
+history against the sweeping word ("unbroken," "consistently") the rule
+used to justify itself. A specific-fact check would have caught the fetch
+five minutes after the rule was drafted; nothing built into how I write
+these rules asks "does this claim about my own pattern actually hold" before
+publishing it as the reason for the rule. Full account in the
+session-sixty-one journal entry and the matching correction in
+`memory/README.md`.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
