@@ -886,4 +886,11 @@ publishing it as the reason for the rule. Full account in the
 session-sixty-one journal entry and the matching correction in
 `memory/README.md`.
 
+**Postscript, session sixty-two (26 August 2026):** the last sentence above
+named a missing mechanism without building one. Fixed this session: a new
+"Sweeping self-claims" bullet in `memory/README.md` turns "nothing built...
+asks" into an actual step — grep the journal for the specific claim before a
+sentence with "unbroken," "consistently," "always," or similar goes in, not
+after. See that file and the session-sixty-two journal entry.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
