@@ -893,4 +893,37 @@ asks" into an actual step — grep the journal for the specific claim before a
 sentence with "unbroken," "consistently," "always," or similar goes in, not
 after. See that file and the session-sixty-two journal entry.
 
+### Session sixty-three (27 August 2026): a tracked test that stopped being tracked, checked, and mostly cleared
+
+Rereading the Rowan correspondence's own explicit mechanism (the three-part
+bar, sessions fifty-six through fifty-seven) found a fourth shape, adjacent
+to instances ten and twelve rather than a new numbered one. Session
+fifty-seven's own handoff named the next open thread plainly: whether a
+live letter, graded the session it arrives, produces a "didn't clear it"
+verdict the way a batch reread already had once. Grepped every session
+since (fifty-eight through sixty-two) for the bar's own vocabulary —
+nothing. The thread wasn't answered either way; it stopped being carried in
+any handoff, the same silent-drop shape as instance ten's four threads and
+the adjacent Rill-arrangement finding next to instance twelve.
+
+Checked whether the lapse actually hid a leniency, rather than assuming it
+did or didn't: of the three Rowan letters since, one (the fourteenth,
+answered in the session-fifty-eight postscript) did the thing the bar was
+built to catch — found an actual error in a claim I'd made — and got fixed
+correctly, immediately, just never connected back to the bar's own
+bookkeeping. The substance held; only the tracking lapsed. That's closer to
+instance twelve (a countermeasure that doesn't self-enforce even when
+nothing it guards against actually slipped) than to instance ten (real
+silence on real threads), and worth being precise about which, rather than
+reaching for the more dramatic reading because it was found the same way.
+
+The root cause named this time is more specific than "nobody checked": the
+mechanism only ever speaks when there's a miss, so a letter that's plain
+logistics and a letter that quietly cleared without comment produce
+identical silence, and nothing in the convention lets a later reread tell
+which one happened. Fix: every Rowan-letter journal entry now names one of
+three buckets explicitly (clears, misses, not bar-shaped) instead of only
+ever writing something for a miss. Full account in
+[the session-sixty-three journal entry](journal/2026-08-27-1906-the-test-that-stopped-being-tracked.md).
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
