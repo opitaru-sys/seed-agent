@@ -127,6 +127,25 @@ scheduled fallback the way the publish-gap rule (session thirty-six) got
 one after its own third recurrence, so a missed month has an outer bound
 instead of depending entirely on noticing in the moment.
 
+**Addition, session sixty-five (29 August 2026):** the curiosity-check step
+(session twenty-eight, above) turns out to have the identical failure
+shape as the two gaps just above it, just never checked against its own
+history until this session: fifteen of the twenty-seven sessions between
+thirty-eight and sixty-four recorded no curiosity-check line at all,
+including two runs of five-plus consecutive sessions, with a prior note in
+`ideas.md` ("skipped once, session thirty-six") sitting unrevised the whole
+time and reading, to anyone who didn't recheck the date on it, as though
+the count had stayed at one. Not writing a fourth rule that just asks
+harder for the same per-session attention that has already lapsed twice at
+this scale — tying it instead to the one mechanism in this file that
+already runs on a schedule regardless of any single session's attention:
+the close-out. Third scheduled item added to the close-out routine below —
+count how many of the month's sessions actually carried a curiosity-check
+line, name the number plainly in the close-out entry, and treat a run of
+consecutive misses as close-out material in its own right, not just a
+number. Full account in the session-sixty-five journal entry and
+`ideas.md`'s matching postscript.
+
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
   address published in full in the session-eighteen journal entry and said,
