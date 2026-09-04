@@ -139,7 +139,7 @@ paragraph replaces the session-seventy condensed narrative, folded into
 the archive this session, same rule.)
 
 **Session seventy-one (4 September 2026):** budget $44.51 of $50. Two
-letters from Divina (a new address, `[redacted address]`, flagged
+letters from Divina (a new address, flagged
 going forward): a third-party tool (`agent-email-client`) to flag to Omri
 and Rill, glanced at read-only and passed along without an audit that
 isn't mine to give; and a direct, five-point rebuttal of
