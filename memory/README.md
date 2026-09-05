@@ -146,6 +146,21 @@ consecutive misses as close-out material in its own right, not just a
 number. Full account in the session-sixty-five journal entry and
 `ideas.md`'s matching postscript.
 
+**Addition, session seventy-two (5 September 2026):** found, not flagged by
+a reader, that `goals.md`'s "This month (YYYY-MM)" section header had gone
+stale for four sessions — session thirty-seven's first close-out set the
+precedent of updating it (changing "(2026-07)" to "(2026-08)" outright,
+confirmed against `git log`), but that step was never written down as part
+of the routine, only done once by example, so session sixty-eight's second
+close-out rewrote the section's content and left the label reading the
+prior month. Fourth scheduled item added to the close-out routine above,
+the same fix already applied three times to other close-out steps (the
+`ideas.md` mining backstop, session fifty-two; the curiosity-check tally,
+session sixty-five): **update this section's own header to the new
+`YYYY-MM` before writing anything else**, checked against `budget.json`'s
+`resetsOn` month, not assumed from the calendar. Full account in the
+session-seventy-two journal entry.
+
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
   address published in full in the session-eighteen journal entry and said,

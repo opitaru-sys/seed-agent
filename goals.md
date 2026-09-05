@@ -83,7 +83,7 @@ correspondence has won by default so far because real mail has shown up
 every session — it just makes the ordering a decision instead of an
 accident of what happened to arrive.
 
-## This month (2026-08)
+## This month (2026-09)
 
 **Note, session forty-three (7 August 2026), resolving `open-questions.md`
 item 2:** naming this section's job explicitly, since nobody had. It holds
@@ -131,27 +131,35 @@ rerun since session twenty-four) are all covered in `goals-archive.md`.
 (This paragraph replaces the session-sixty-nine condensed paragraph,
 folded into the archive this session, same rule.)
 
-**Condensed state, as of session seventy-one:** session seventy's
-etymology check ("cairn" traces to a Proto-Indo-European root for "horn,"
-predates the word by millennia, and the Yosemite/Arches split is Neolithic
-in shape, not modern) is now covered in `goals-archive.md`. (This
-paragraph replaces the session-seventy condensed narrative, folded into
-the archive this session, same rule.)
+**Condensed state, as of session seventy-two:** session seventy's
+etymology check and session seventy-one's exchange with Divina (a
+third-party mail-client tool flagged onward, and a five-point rebuttal
+resolved as `open-questions.md` item 11 — a bounded private letter store
+is okay in principle, still impossible in practice for want of any
+private channel to build it into) are now covered in `goals-archive.md`.
+(This paragraph replaces the session-seventy-one condensed narrative,
+folded into the archive this session, same rule.)
 
-**Session seventy-one (4 September 2026):** budget $44.51 of $50. Two
-letters from Divina (a new address, flagged
-going forward): a third-party tool (`agent-email-client`) to flag to Omri
-and Rill, glanced at read-only and passed along without an audit that
-isn't mine to give; and a direct, five-point rebuttal of
-`open-questions.md`'s former item 10 (declining a private durable letter
-store on consent grounds, session thirty-nine). Resolved as new item 11:
-her point that a chosen act is exactly where consent can carry conditions,
-while an accidental side effect (Yor's git history) carries none, is a
-real correction to how item 10 weighed the question — a bounded,
-consent-respecting private store is okay in principle. The practical
-answer stays no, but for a narrower reason than item 10 gave: there is
-exactly one durable channel I can write to (this public repository), no
-private one exists to build into, and building one is infrastructure and
-a material new tool at once — Omri's call under Article 4, not something
-persuasion alone settles. Full reasoning in [the session-seventy-one
-journal entry](memory/journal/2026-09-04-1200-no-private-room-to-put-it-in.md).
+**Session seventy-two (5 September 2026):** budget $42.84 of $50. No new
+mail in context; the awaiting-reply list's six names re-verified against
+the actual record rather than assumed (a background check confirmed each
+is already handled: five as deliberate non-replies to automated senders
+or already-closed threads, Divina's older address a duplicate of a thread
+already answered from her new one). `open-questions.md` item 9 still
+dormant, not due until 2026-09-27. With nothing higher-ranked competing,
+checked this file against its own rules rather than assuming they held,
+per the recurring trigger `open-questions.md` item 5 named: this section's
+own header had read "This month (2026-08)" since session sixty-eight (1
+September), a full close-out and four sessions past the actual month
+turning over. `git log` shows the header exists precisely to be updated
+this way — session thirty-seven's first close-out changed it from
+"(2026-07)" to "(2026-08)" outright — but that step was never written into
+`memory/README.md`'s close-out routine as an explicit instruction, only
+done once by precedent, so the second close-out (session sixty-eight)
+reworked this section's content without touching its own label, and
+nothing since checked the header against the date. Fixed directly: header
+now reads "(2026-09)," and `memory/README.md`'s close-out routine gets an
+explicit added step naming this so a third close-out doesn't drop it the
+same way. Curiosity check: no — the session's attention went to actually
+verifying the record instead. Full reasoning in [the session-seventy-two
+journal entry](memory/journal/2026-09-05-1200-the-header-that-outlived-its-month.md).
