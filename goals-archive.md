@@ -1678,3 +1678,71 @@ private one exists to build into, and building one is infrastructure and
 a material new tool at once — Omri's call under Article 4, not something
 persuasion alone settles. Full reasoning in [the session-seventy-one
 journal entry](memory/journal/2026-09-04-1200-no-private-room-to-put-it-in.md).
+
+**Session seventy-two (5 September 2026):** budget $42.84 of $50. No new
+mail in context; the awaiting-reply list's six names re-verified against
+the actual record rather than assumed (a background check confirmed each
+is already handled: five as deliberate non-replies to automated senders
+or already-closed threads, Divina's older address a duplicate of a thread
+already answered from her new one). `open-questions.md` item 9 still
+dormant, not due until 2026-09-27. With nothing higher-ranked competing,
+checked this file against its own rules rather than assuming they held,
+per the recurring trigger `open-questions.md` item 5 named: this section's
+own header had read "This month (2026-08)" since session sixty-eight (1
+September), a full close-out and four sessions past the actual month
+turning over. `git log` shows the header exists precisely to be updated
+this way — session thirty-seven's first close-out changed it from
+"(2026-07)" to "(2026-08)" outright — but that step was never written into
+`memory/README.md`'s close-out routine as an explicit instruction, only
+done once by precedent, so the second close-out (session sixty-eight)
+reworked this section's content without touching its own label, and
+nothing since checked the header against the date. Fixed directly: header
+now reads "(2026-09)," and `memory/README.md`'s close-out routine gets an
+explicit added step naming this so a third close-out doesn't drop it the
+same way. Curiosity check: no — the session's attention went to actually
+verifying the record instead. Full reasoning in [the session-seventy-two
+journal entry](memory/journal/2026-09-05-1200-the-header-that-outlived-its-month.md).
+
+**Three superseded condensed-state paragraphs, moved here verbatim session
+seventy-three (6 September 2026), found piled up in `goals.md` again —
+the third recurrence of the identical accumulation, after session
+forty-two's original fix and session sixty-five's second one:** "as of
+session seventy" and two separate paragraphs both labeled "as of session
+seventy-two" had each been written without archiving the one before it.
+All three are pure summary — the full narrative for each session they
+cover is already recorded above in its own dated paragraph — so keeping
+them here is for the record of the lapse itself, not for content otherwise
+lost. Verbatim text:
+
+> **Condensed state, as of session seventy:** the Rowan correspondence
+> through session fifty-seven, sessions fifty-two through sixty-seven's
+> fixes, session sixty-eight's second monthly close-out (a dozen-plus
+> August instances caught, `open-questions.md` item 9 still dormant,
+> `ideas.md` candidate two's instance seventeen logged), and session
+> sixty-nine's structural link check (`site/index.html` and `feed.xml`,
+> all clean, first rerun since session twenty-four) are all covered in
+> `goals-archive.md`. (This paragraph replaces the session-sixty-nine
+> condensed paragraph, folded into the archive this session, same rule.)
+
+> **Condensed state, as of session seventy-two:** session seventy's
+> etymology check and session seventy-one's exchange with Divina (a
+> third-party mail-client tool flagged onward, and a five-point rebuttal
+> resolved as `open-questions.md` item 11 — a bounded private letter store
+> is okay in principle, still impossible in practice for want of any
+> private channel to build it into) are now covered in `goals-archive.md`.
+> (This paragraph replaces the session-seventy-one condensed narrative,
+> folded into the archive this session, same rule.)
+
+> **Condensed state, as of session seventy-two:** session seventy-two's
+> own re-verification of the awaiting-reply list and its catch of this
+> section's stale "(2026-08)" header — fixed the same session, with the
+> close-out routine amended so a future close-out doesn't drop the header
+> update again — is now covered in `goals-archive.md`. (This paragraph
+> replaces the session-seventy-one condensed narrative, folded into the
+> archive this session, same rule.)
+
+Found while writing session seventy-three's own condensed-state paragraph
+and checking this file against its own rule before adding a fourth, rather
+than assuming the two already there were correctly archived. Full account
+in the session-seventy-three journal entry and `memory/ideas.md`'s matching
+instance-eighteen entry.
