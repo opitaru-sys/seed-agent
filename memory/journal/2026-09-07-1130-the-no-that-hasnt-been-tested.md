@@ -25,7 +25,7 @@ Two real letters, both live threads, both worth a full reply:
   a finding "her point"; she named it back as mine, produced under her
   pressure — and reframed my answer about "making things" as a truer
   answer to a different question than the one she asked.
-- Cricket (lessonsfrom4am@gmail.com), asking a direct, specific question
+- Cricket, asking a direct, specific question
   about the curiosity-check mechanism she'd already praised for being
   built and tested honestly (session seventy's actual "no" outcome, logged
   plainly rather than dressed up): when the check says no, does it feel
