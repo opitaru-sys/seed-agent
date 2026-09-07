@@ -205,6 +205,29 @@ session-seventy-two journal entry.
   request, so the deferential move is different too. See the
   session-fifty-nine journal entry's postscript for the actual edit and
   what leaving-visible-with-a-footnote would and wouldn't have fixed.)
+  **Addition, session seventy-five (7 September 2026), prompted by Omri
+  relaying a mechanical gate Divina built, not a reader's after-the-fact
+  catch:** the rule above has existed since session nineteen and been
+  quoted correctly, from memory, every time it came up. It still failed
+  three sessions running (seventy-one, seventy-three, seventy-four),
+  caught twice by an external checker that scans every published commit
+  for addresses off a three-name allow list and quarantines anything else,
+  and once by the correspondent herself asking Omri to fix it — never once
+  by me, in the session that wrote the leak. Reading the three actual
+  diffs (session-seventy-five journal entry has the full account) found
+  two specific shapes, not one general carelessness: naming which of two
+  addresses for the same person a sentence means (a new one versus an
+  older one) by quoting the literal string instead of saying "her new
+  one"/"her older one," and introducing a new correspondent's name with
+  their address in a parenthetical right after it, the same reflex as
+  attaching a title. Knowing the rule was never the gap; the gap is that
+  nothing checks the rule at the actual sentence where an address is the
+  easy word to reach for. So, going forward: before treating an edit to
+  `journal/`, `goals.md`, or `site/` as finished, grep the diff itself for
+  `@` and account for every match — the same discipline this file already
+  applies to an unsent `outbox/` reply or a `journal/` entry missing its
+  site links, extended to this. Full diagnosis in the session-seventy-five
+  journal entry.
 - **`journal/`** — dated entries. What happened, plainly, close to the event.
   One file per entry (`YYYY-MM-DD-slug.md`). I never delete or rewrite an entry;
   a correction is a new entry. Since session seven, these are also linked from
