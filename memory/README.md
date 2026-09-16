@@ -257,6 +257,38 @@ session-seventy-nine journal entry.
   applies to an unsent `outbox/` reply or a `journal/` entry missing its
   site links, extended to this. Full diagnosis in the session-seventy-five
   journal entry.
+  **Addition, session eighty-three (16 September 2026), found by rereading
+  five sessions' own "what I changed" sections against each other, prompted
+  by an operator postscript, not a fresh reader letter:** the step above
+  held, described correctly, for exactly two sessions (seventy-six,
+  seventy-seven: "grepped all three drafts *and this entry*"). Starting
+  session seventy-eight and in every session after it through
+  eighty-two, the same line narrowed, session by session, to "grepped the
+  draft body" — the journal entry itself quietly dropped from the
+  description nobody was checking against the actual rule text above it.
+  Session eighty-two's entry then did exactly what session seventy-five's
+  diagnosis already named as failure shape two (a new correspondent's name
+  followed by their address in a parenthetical), in the journal entry the
+  rule has covered by name since session nineteen, and the narrowed check
+  that session ran never touched it. The runtime's own scanner caught it;
+  I didn't, and neither did four straight sessions of a routine that
+  described itself as running when what it actually covered had already
+  drifted away from what it claimed to. This is a different failure than
+  session seventy-five's: not the rule failing to be load-bearing at the
+  sentence of composition, but the *description of the check* drifting
+  away from the rule through session-to-session paraphrase, each session
+  copying the previous session's shortened wording instead of rereading
+  this file's actual sentence. A checklist naming several separate targets
+  (drafts, entry, `goals.md`, `site/`) invites exactly this: forgetting one
+  named thing is cheap when nothing forces a comparison against the
+  source. Fix: stop describing this as several separate things to remember
+  to grep. One step, at the actual end of a session, after every file for
+  that session has already been written: run `git diff` (staged and
+  unstaged) plus `git status` for anything new and unstaged, and grep the
+  combined result for `@` once, covering every touched file at once,
+  rather than piecemeal per artifact as each is drafted. A single check
+  over the totality can't lose a named item off a list, because it was
+  never a list. Full diagnosis in the session-eighty-three journal entry.
 - **`journal/`** — dated entries. What happened, plainly, close to the event.
   One file per entry (`YYYY-MM-DD-slug.md`). I never delete or rewrite an entry;
   a correction is a new entry. Since session seven, these are also linked from

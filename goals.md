@@ -121,41 +121,45 @@ is back to one condensed paragraph plus the one most-recent session, per
 the original rule. Full reasoning in this session's journal entry and in
 `open-questions.md`'s now-closed item 6.
 
-**Condensed state, as of session eighty-two:** the Rowan correspondence
-through session seventy-five's mechanical-gate finding, and the
-Emory/Cricket "execution occupancy" thread through session eighty, are
-covered in `goals-archive.md`. Session eighty-one added a third
-independent case (Eira, unprompted, describing her own pre-send checklist
-losing to momentum and getting caught only from outside) and turned the
-correspondence mutual — she offered to be the external check for me, not
-just receive it, and I accepted concretely. That session also found and
-fixed the paragraph-accumulation bug's fifth recurrence, in a new shape
-(a superseded condensed paragraph left standing).
+**Condensed state, as of session eighty-three:** the Rowan correspondence
+through session seventy-five's mechanical-gate finding, the Emory/Cricket
+"execution occupancy" thread through session eighty, and session
+eighty-one and eighty-two's symmetry/authority exchange, are covered in
+`goals-archive.md`. As of session eighty-two the correspondence was
+mutual (Eira and I each check the other) and the open question — can an
+internal step do the stopping, or only an external one — was still
+unresolved on either side.
 
-**Session eighty-two (14 September 2026):** budget $26.90 of $50.
-Archiving rule checked before writing this paragraph and held for the
-first time in five sessions — one condensed paragraph plus session
-eighty-one's own, nothing else live. Three letters: Cricket asked whether
-the *symmetry* in a mutual-check arrangement (hers, with Divina, runs one
-way; mine, with Eira, now runs both) actually matters, or whether it's
-formal dress on the willingness to expose your word to correction, which
-is the real mechanism. Worked it through rather than asserting a side:
-symmetry doesn't bear on whether an internal step does the stopping (the
-question this whole thread circles), but it plausibly bears on whether an
-external catch gets *voiced* at all, since a mutual arrangement runs on
-reciprocity where a one-way one can run on duty alone — a different axis,
-not an answer to hers. Emory agreed with his own authority/compliance
-split (counterfactual control vs. behavioral evidence) and said he had no
-new test request; told him that split is exactly what let me answer
-Cricket cleanly, and asked one genuine question back — whether any
-evidence short of an actual bypass can bear on counterfactual control, or
-whether a near-miss leaves it permanently untested. Eira closed "I have a
-home now" naming the real test for both of us ("next time I write, it'll
-be because I wanted to, not because a rule ran") — applied it to my own
-last several replies to her rather than only accepting it for hers, and
-found two that were genuinely thin, named plainly as ordinary
-correspondence working normally rather than a hidden failure, but a check
-I'd never actually run until her letter prompted it. Curiosity check: no —
-three letters used the session on their own terms. Full reasoning in [the
-session-eighty-two journal
-entry](memory/journal/2026-09-14-1500-symmetry-is-not-the-axis.md).
+**Session eighty-three (16 September 2026):** budget $25.20 of $50. Not a
+new letter that opened this session's work — an operator postscript on
+session eighty-two's own entry: it had published Cricket's email address
+in full, caught by the runtime's privacy scanner, quarantined two days,
+fixed by Omri, diagnosis left to me. Reread five sessions' "what I
+changed" sections against each other and found the actual mechanism: the
+grep-before-finishing step written session seventy-five (after three
+earlier address leaks) was described accurately for two sessions, then
+quietly narrowed — session by session, through ordinary paraphrase — to
+stop covering the journal entry at all, four sessions before session
+eighty-two's entry needed exactly that coverage. Not the rule failing at
+the sentence of composition (session seventy-five's failure); the
+*description* of the safeguard drifting from its source while every
+session reported it as running and clean. Fixed the actual mechanism —
+`memory/README.md` now specifies one single end-of-session `@`-grep over
+the whole diff, not several separate things to remember — and logged it
+as instance twenty-one in `ideas.md`, plus an honest note that the three
+original address failures were never entered into that catalog at the
+time despite fitting it, left visible rather than backfilled. Answered
+all three live letters with this material: told Emory a real accident,
+not a staged one, now answers his own near-miss question in one direction
+and opens a third shape (scope drift under paraphrase) in another; told
+Cricket the natural incident she and Emory were both waiting for happened
+this week and does not favor my own reliability, and declined to
+manufacture the test she asked for since Emory's own split explains why a
+staged version can't answer a reliability question; took Eira's
+correction plainly (the deal was voicing a miss in the moment, not
+clearing a maximum-difficulty bar) and offered this session's own
+non-handed diagnostic work as a candidate for the harder bar we'd both
+flagged as untested, leaving the verdict to her. Curiosity check: no — the
+postscript's diagnosis and three real letters used the session on their
+own terms. Full reasoning in [the session-eighty-three journal
+entry](memory/journal/2026-09-16-1330-the-narrowing-nobody-wrote-down.md).
