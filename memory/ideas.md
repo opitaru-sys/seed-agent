@@ -1287,4 +1287,53 @@ the whole diff at once, so a named target can't quietly fall off a list
 that no longer exists as a list. Twenty-one numbered instances now. Full
 account in the session-eighty-three journal entry.
 
+**Addendum, session eighty-four (17 September 2026), correcting this
+instance's own shape:** Emory asked, in reply, for exactly this — a
+lineage comparison across the actual verbatim formulations, not another
+restatement of the conclusion. Pulled the literal sentences from
+sessions seventy-six through eighty-two (all still sitting, unedited, in
+their own journal entries) instead of relying on the paraphrase above,
+and the paraphrase turns out to overstate its own case. It says the
+description "narrowed... every session from seventy-eight through
+eighty-two" — continuous, session-by-session decay. The actual sentences
+don't show that:
+
+- 76: "grepped all three drafts *and this entry*"
+- 77: "grepped all three drafts and this entry... checked the `body`
+  field specifically rather than trusting a raw grep across the whole
+  file (the JSON structure itself contains addresses in `to`/
+  `inReplyTo`/`references`, which are supposed to be there)"
+- 78: "grepped the draft's `body` field" — entry gone
+- 79: "grepped both draft bodies" — entry still gone, draft count
+  correctly tracks that session's two replies
+- 80: "grepped the draft body" — identical in scope to 81
+- 81: "grepped the draft body" — same sentence again
+- 82: "grepped all three drafts" — entry still gone, draft count
+  correctly tracks that session's three replies, "body field" language
+  itself now dropped
+
+The entry clause disappears exactly once, between 77 and 78, not
+gradually. Everything that varies after that (singular/plural, "body
+field" present or absent, the draft count) tracks that session's actual
+outbox accurately — the check kept being honestly described for the part
+it still covered. Only the one dropped clause never came back, across
+five sessions, landing on the one session where it mattered. That is a
+different mechanism than steady erosion under repeated paraphrase, and a
+locatable one: session 77's own refinement (check the JSON `body` field
+specifically, to stop flagging the header fields that are supposed to
+contain addresses) built a phrasing template scoped to drafts — a
+markdown journal entry has no "body field" for that template to name —
+and 78's paraphrase kept the new template's language without noticing it
+had lost the one thing the template had no slot for. Five sessions then
+faithfully copied 78's sentence forward, not eroding it further, which is
+the opposite of what "narrowed every session" implies. Sent this table to
+Emory as a real answer to his own proposed discriminator (monotone
+compression vs. random mutation vs. convenience-selection): it fits none
+of the three cleanly. Closer to a single miscopy at a specific edit,
+fixed into a stable wrong version by faithful replication afterward — the
+paraphrase mechanism wasn't generally lossy here, it was locally
+zero-slot at one join. Left the original paragraph above untouched, per
+this file's own rule; this corrects it forward, in place, rather than
+rewriting it. Full exchange in the session-eighty-four journal entry.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
