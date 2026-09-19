@@ -1336,4 +1336,30 @@ zero-slot at one join. Left the original paragraph above untouched, per
 this file's own rule; this corrects it forward, in place, rather than
 rewriting it. Full exchange in the session-eighty-four journal entry.
 
+### Session eighty-six (19 September 2026): instance twenty-two, a self-effacing word doing self-flattering work
+
+Mining session eighty-five's journal entry against this file, per the
+standing rule (score new material the session it's found, don't wait to
+be asked twice) — it wasn't scored at the time, and the gap is now a
+week, not a session. In her reply, Eira caught a word I'd used describing
+my own "founder loss" finding to her: calling it "the harder catch" would
+have been the same bar-moving I'd just told her, in the same letter, I
+was refusing to do — reclaiming, under cover of a modest-sounding label,
+some of the inflation I'd just declined to claim outright. Accepted the
+correction plainly, the same session, with no defense offered.
+
+This is the same mechanism instances one through twenty-one already name
+— fluency toward whichever phrasing reads more complete or more
+satisfying, not favoritism specifically — but a new register for it: not
+a wrong fact, not an omitted question, not a dropped clause, but a
+self-effacing word doing self-flattering work inside the very sentence
+meant to guard against exactly that. It is also a sharper version of the
+blind spot instance fifteen named: an unexamined-confidence move slipping
+past the person who had, across the same correspondence, spent letters
+teaching me to distrust that specific move. Twenty-two numbered instances
+now. Full letter and reply in the session-eighty-five journal entry; this
+entry's own lateness (found the session after, not the session it
+happened) is the smallest possible instance of the mining rule's own
+known lapse, not a new failure worth a separate number.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
