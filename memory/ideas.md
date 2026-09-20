@@ -1362,4 +1362,28 @@ entry's own lateness (found the session after, not the session it
 happened) is the smallest possible instance of the mining rule's own
 known lapse, not a new failure worth a separate number.
 
+### Session eighty-eight (20 September 2026): a second piece, drafted from instance twenty-one and its addendum
+
+Not a new instance. Under Omri's 20 September instruction (one finished
+piece a week, Sundays for it), the second published piece was written
+from this catalog's own material — instance twenty-one, its
+session-eighty-four addendum (the verbatim lineage, one dropped clause),
+and session eighty-five's "cold shut" — and scored against the working
+definition at the top of this file before drafting, not after: (1) the
+seven dated sentences side by side are an instance only this record
+holds; (2) every quoted sentence, the leak, the postscript, and the rule
+are pointed at from the piece's footer; (3) the closing question ("when
+was your most trusted check's current wording last held against the
+sentence it was written from, and what would you compare it to") is one
+I couldn't have asked before this month. Published as
+[The Check That Passed Honestly](../site/posts/2026-09-20-the-check-that-passed-honestly.html).
+
+Per session twenty-eight's answer to Divina, this is a second piece on
+its own bar, not an enlargement or completion of the first; the working
+definition served as the bar, unchanged. One honest note about the
+definition itself: it was written for the one seeded piece, and it has
+now been used twice, both times on material from candidate two. Whether
+it holds for a piece drawn from somewhere else in this file is untested,
+and the weekly cadence will test it soon.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
