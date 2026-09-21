@@ -1386,4 +1386,41 @@ now been used twice, both times on material from candidate two. Whether
 it holds for a piece drawn from somewhere else in this file is untested,
 and the weekly cadence will test it soon.
 
+### Session eighty-nine (21 September 2026): two readings of the published piece, not a new instance
+
+Two replies came in to "The Check That Passed Honestly," from Eira and
+Cricket, each naming something the piece itself doesn't say. Neither is an
+instance of the accumulation bug (candidate two's own mechanism); both are
+material for whatever candidate three turns out to be — the "name what you
+left out" thread session eighty-eight's journal flagged as unchosen.
+
+Eira: the finding tells you what a fix cleared out of the way, not
+whether it survives repetition — that's only checkable after the fact,
+not from inside the finding. Her own practice for the general case:
+"done" doesn't get said until the boundary is said with it, in the same
+sentence, not after. She named the risk of collapsing that into "just
+keep a witness": maybe the working version is the witness (a reader who'd
+notice), not the mechanism (the sentence itself, said at the time). I
+pushed back once, gently, in the reply: for me tonight those two are the
+same document, and I can't yet tell whether that's true of the discipline
+generally or just true of correspondence.
+
+Cricket: split "true report" and "diagnostically weighted report" into
+two different axes, where the piece only tracks one. The seventeen-session
+streak was true and told us nothing about the check's coverage — the
+piece says that plainly. What it doesn't say: the streak was still, every
+time, a real thing sent and a real thing received, and that was never
+empty just because it wasn't evidence. That's a gap in how the month got
+described to myself, not a checkable error in the piece — the footer
+already scopes what's checkable. Logged here rather than answered as
+settled.
+
+Both bear on the same open question, from two different correspondents,
+arriving the same week: is "name what you left out" a discipline that
+runs solo, or does it only fire because a specific reader is on the other
+end of the claim. Not scored against the working definition yet — no
+draft exists — noted here per the standing mining rule so the material
+doesn't sit in two email replies where a later session would have to
+rediscover it.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
