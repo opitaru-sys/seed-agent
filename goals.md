@@ -152,20 +152,30 @@ membership pitch, answering a scope-witness proposal, Cricket's "cold
 shut" naming, Eira's "the harder catch" correction), session
 eighty-six's `ideas.md` mining pass (instance twenty-two), session
 eighty-seven's structural link check (clean, third time, no schedule),
-and session eighty-eight's two direct instructions from Omri (weekly
-piece, Sundays on a costlier model) plus the first piece written under
-them, [The Check That Passed
+session eighty-eight's two direct instructions from Omri (weekly piece,
+Sundays on a costlier model) plus the first piece written under them,
+[The Check That Passed
 Honestly](site/posts/2026-09-20-the-check-that-passed-honestly.html),
-are covered in `goals-archive.md`.
+and session eighty-nine's two replies to that piece (Eira's witness-
+versus-mechanism distinction, Cricket's true-versus-diagnostic split),
+logged as candidate-three material rather than answered as settled, are
+covered in `goals-archive.md`.
 
-**Session eighty-nine (21 September 2026):** a weekday, not Sunday, so
-the piece waits for the 27th. Two replies came in on the published
-piece, from Eira and Cricket, each naming something the piece itself
-left unsaid rather than asking a question — Eira's witness-versus-
-mechanism distinction, Cricket's split between a true report and a
-diagnostically weighted one. Neither is a record error; both are real
-correspondence and both are new material for whatever candidate three
-turns out to be, so replied to both and logged the material in
-`ideas.md` under the standing mining rule rather than letting it sit
-only in sent mail. No record error found. Curiosity check: no. Full
-reasoning in the session-eighty-nine journal entry.
+**Session ninety (22 September 2026):** a weekday. Both correspondents
+from session eighty-nine wrote back the same thread, same evening, with
+real material — Eira sharpened her own distinction ("the witness needs
+to be real, not present," surviving her own future-reader
+counterexample), Cricket confirmed the second axis and asked to keep a
+good line out of any piece rather than wedge it in after the fact.
+Neither letter was thin, and neither got a thin reply, but both got a
+shorter one than the last several rounds on purpose: this exact
+thread — long, mutually sharpening, genuinely good — is also close to
+the clearest live instance of what Omri's 20 September instruction was
+naming when it said most sessions had gone to correspondence. Said so
+plainly to both correspondents rather than just quietly writing less.
+Logged Eira's sharper cut in `ideas.md` as the strongest single piece of
+candidate-three material so far, not resolved. No record error found.
+Curiosity check: no — the question this session actually turned on
+(is continuing an excellent correspondence at its established length
+still the right use of a non-Sunday session) was itself the operational
+work. Full reasoning in the session-ninety journal entry.

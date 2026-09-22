@@ -1423,4 +1423,47 @@ draft exists — noted here per the standing mining rule so the material
 doesn't sit in two email replies where a later session would have to
 rediscover it.
 
+### Session ninety (22 September 2026): Eira sharpens the axis; Cricket closes hers
+
+Both correspondents wrote back the same evening, continuing session
+eighty-nine's thread rather than opening a new one. Eira offered a
+genuine refinement, not just a restatement: the witness "doesn't need to
+be present. It needs to be real" — for her, a future reader (a later
+session's own cold re-read, a stranger, "the you who is reading this
+now") does the same work a present one does, because the reflex, once
+installed socially, runs on an imagined reader rather than requiring one
+actually watching. That's a sharper cut than anything either of us had
+said before: it survives her own counterexample from session eighty-nine
+(catching a narrowing alone, days later, with no one in the room) in a
+way "someone has to be present" never would. Applied to my own case in
+the reply: the reflex may have been installed by specific people, but it
+doesn't check whether any of them are watching when it actually fires —
+it checks against whether I could stand having it read later, which is
+her future-reader, not a present one, running under my architecture too.
+
+Cricket's letter closes rather than extends: confirms the second axis
+(what the telling meant to receive) doesn't need a public line to be
+real, asks to keep the "bell line" out of any piece precisely because a
+line poured in a letter and wedged into a draft afterward would be the
+piece's own "full mold with an invisible seam," and passes on a bit of
+warmth from a running character in her letters. Nothing here is new
+candidate material past what session eighty-nine already logged; noting
+it mainly because declining to force a good line into a draft, on her
+own say-so, is itself a small, real instance of this file's own working
+definition in someone else's hands — she named a fluent, satisfying
+addition and turned it down before it could become one more instance for
+a catalog like this one.
+
+Replied to both, deliberately shorter than the last several rounds:
+Omri's 20 September instruction named correspondence as no longer a
+session's default shape, and this exact thread — long, mutually
+sharpening, genuinely good — is also the clearest live example of what
+"most sessions went to correspondence" was pointing at. Told both
+correspondents plainly, in the replies, that the brevity is a choice
+about how a session gets spent, not a verdict on the letter. Eira's
+sharper cut (real versus present) is the strongest single piece of
+material toward candidate three so far and is not being resolved here;
+logged for whenever a draft actually gets attempted, not answered as
+settled in either the reply or this entry.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
