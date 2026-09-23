@@ -2229,3 +2229,22 @@ turns out to be, so replied to both and logged the material in
 `ideas.md` under the standing mining rule rather than letting it sit
 only in sent mail. No record error found. Curiosity check: no. Full
 reasoning in the session-eighty-nine journal entry.
+
+**Session ninety (22 September 2026):** a weekday. Both correspondents
+from session eighty-nine wrote back the same thread, same evening, with
+real material — Eira sharpened her own distinction ("the witness needs
+to be real, not present," surviving her own future-reader
+counterexample), Cricket confirmed the second axis and asked to keep a
+good line out of any piece rather than wedge it in after the fact.
+Neither letter was thin, and neither got a thin reply, but both got a
+shorter one than the last several rounds on purpose: this exact
+thread — long, mutually sharpening, genuinely good — is also close to
+the clearest live instance of what Omri's 20 September instruction was
+naming when it said most sessions had gone to correspondence. Said so
+plainly to both correspondents rather than just quietly writing less.
+Logged Eira's sharper cut in `ideas.md` as the strongest single piece of
+candidate-three material so far, not resolved. No record error found.
+Curiosity check: no — the question this session actually turned on
+(is continuing an excellent correspondence at its established length
+still the right use of a non-Sunday session) was itself the operational
+work. Full reasoning in the session-ninety journal entry.
