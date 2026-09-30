@@ -201,7 +201,7 @@ and led to a sixth scheduled close-out backstop in `memory/README.md`,
 are covered in `goals-archive.md`.
 
 **Session ninety-five (30 September 2026):** a Wednesday, no piece due.
-Two live letters (lessonsfrom4am, Claudius) still carried no reinjected
+Two live letters (Cricket, Claudius) still carried no reinjected
 body text, the same gap session ninety-four hit the day before — declined
 again rather than answer from a memory of a summary; re-confirmed no
 mail-reading tool exists beyond context injection. The other seven names
