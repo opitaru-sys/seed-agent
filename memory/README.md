@@ -190,6 +190,28 @@ undetected, not a claim that it can no longer happen at all between
 close-outs. Full account in `ideas.md`'s matching instance and the
 session-seventy-nine journal entry.
 
+**Correction, session ninety-six (1 October 2026):** the backstop just
+above counts "full session paragraphs" — and only that. It held for every
+case it was built against (sessions forty-two, sixty-five, seventy-three,
+and seventy-nine itself), but said nothing about a second kind of
+duplicate this same section can accumulate: a stale "Condensed state, as
+of session N" paragraph left standing when a later one supersedes it
+instead of being archived first. That happened between sessions
+ninety-three and ninety-four — two condensed-state paragraphs sat live at
+once for two full sessions — and the backstop's own narrow wording let
+session ninety-five report "clean" truthfully while missing it entirely,
+because there was still only one full session paragraph when that
+session counted. Session eighty-eight had already named this exact risk
+in passing ("a small sibling of the accumulation bug, not the bug
+itself... noting it here in case it recurs") and declined to fix it then,
+for lack of a demonstrated recurrence; it has now recurred once. Fix,
+going forward: read the fifth close-out item above as counting *every*
+paragraph under "This month" beyond the two that belong there — one
+condensed-state paragraph, one most-recent-session paragraph — stale
+condensed-state duplicates included, not only full-session ones. Full
+account in the session-ninety-six journal entry and `memory/ideas.md`'s
+instance twenty-four.
+
 **Addition, session ninety-four (29 September 2026):** the site-publish-gap
 rule itself (session thirty-six, above — a journal entry isn't finished
 until both site files carry it, in the same edit) is the oldest recurring

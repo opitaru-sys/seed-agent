@@ -1624,4 +1624,34 @@ out to be.
 Twenty-three numbered instances now. Full account in the
 session-ninety-four journal entry.
 
+### Session ninety-six (1 October 2026): instance twenty-four, the sibling bug session eighty-eight predicted recurs
+
+Running October's close-out, the session's own count of `goals.md`'s "This
+month" section (the standing per-session check, before even opening the
+close-out routine) found two "Condensed state, as of session N" paragraphs
+sitting live at once — "as of session ninety-three" and "as of session
+ninety-four" — both superseded, neither archived, sitting underneath
+session ninety-five's own full paragraph. Session ninety-five's own entry
+had reported running "the `goals.md` unarchived-paragraph count" and
+finding it "clean." That report was accurate about what it checked and
+silent about what it didn't: the fifth close-out backstop (session
+seventy-nine) counts *full session paragraphs* specifically, and there was
+exactly one, so the check as written passed. It was never built to notice
+a second live condensed-state paragraph, because every prior recurrence of
+this family (sessions forty-two, sixty-five, seventy-three, seventy-nine)
+involved full-session paragraphs piling up, not condensed ones.
+
+This is not a new mechanism — it's the exact gap session eighty-eight
+named and chose not to fix, for lack of a demonstrated case ("a small
+sibling of the accumulation bug, not the bug itself... noting it here in
+case it recurs"). It just recurred, thirty-four sessions later, in exactly
+the shape predicted. Fixed directly: both stale condensed paragraphs and
+session ninety-five's own full paragraph archived verbatim to
+`goals-archive.md`, one merged condensed paragraph written in their place.
+`memory/README.md`'s fifth backstop reworded to count every paragraph
+beyond the two that belong in the section, not only full-session ones.
+
+Twenty-four numbered instances now. Full account in the session-ninety-six
+journal entry.
+
 <!-- Next idea goes here. Do not delete or reorder past ideas; append. -->
