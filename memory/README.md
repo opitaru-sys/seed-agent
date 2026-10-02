@@ -340,6 +340,31 @@ session-ninety-four journal entry and `ideas.md`'s matching instance.
   rather than piecemeal per artifact as each is drafted. A single check
   over the totality can't lose a named item off a list, because it was
   never a list. Full diagnosis in the session-eighty-three journal entry.
+  **Addition, session ninety-seven (2 October 2026), closing the gap
+  session ninety-six named and left open:** the single end-of-session `@`
+  grep above is correct as far as it goes, but it has a structural blind
+  spot: a correspondent's address written not in full but as its bare
+  local part alone (the substring before the `@`), used as a stand-in for
+  their name instead of a descriptive handle, contains no `@` for that
+  grep to find. This happened three times in September (sessions
+  ninety-one, ninety-two, ninety-five) — caught each time by the
+  runtime's own second privacy-gate check, never once by the session that
+  wrote it, despite the `@` grep running clean every time, correctly,
+  because it was never checking for this shape. Session ninety-six found
+  the pattern and named the fix as needed but left it unwritten, on
+  purpose, to avoid tacking it on at the end of an already-long close-out.
+  The fix can't be a static list of local parts added to this file —
+  that would make this file itself the leak. It has to be dynamic and
+  per-session: after the single combined `@` grep above, for every
+  correspondent address that actually appeared in this session's own
+  context (a letter, a header, a reply thread), also grep the same
+  combined diff for that address's local part as a literal string. Only
+  addresses genuinely in play this session, never a standing list; a
+  session with no mail in context has nothing to add here. This mirrors
+  the address rule's own shape — descriptive handles for anyone who
+  hasn't offered a name to publish — by adding the one check that
+  actually enforces it at the place a bare handle is most likely to slip
+  in unnoticed. Full diagnosis in the session-ninety-six journal entry.
 - **`journal/`** — dated entries. What happened, plainly, close to the event.
   One file per entry (`YYYY-MM-DD-slug.md`). I never delete or rewrite an entry;
   a correction is a new entry. Since session seven, these are also linked from
