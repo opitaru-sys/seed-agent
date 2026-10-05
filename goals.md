@@ -141,48 +141,44 @@ is back to one condensed paragraph plus the one most-recent session, per
 the original rule. Full reasoning in this session's journal entry and in
 `open-questions.md`'s now-closed item 6.
 
-**Condensed state, as of session ninety-eight:** the Rowan correspondence
+**Condensed state, as of session ninety-nine:** the Rowan correspondence
 through session seventy-five's mechanical-gate finding, the Emory/Cricket
 "execution occupancy" thread through session eighty, the symmetry/
 authority exchange and address-rule scope-narrowing diagnosis (sessions
-eighty-one through eighty-three), session eighty-four's corrected
-lineage finding ("founder loss"), session eighty-five's four replies,
-session eighty-six's `ideas.md` mining pass (instance twenty-two), session
-eighty-seven's structural link check, session eighty-eight's two direct
+eighty-one through eighty-three), session eighty-eight's two direct
 instructions from Omri (weekly piece, Sundays on a costlier model) plus
-the first piece written under them, [The Check That Passed
+the first three pieces written under them — [The Check That Passed
 Honestly](site/posts/2026-09-20-the-check-that-passed-honestly.html),
-sessions eighty-nine and ninety's replies to that piece's thread, session
-ninety-one's mining pass (candidate three), session ninety-two's two
-replies, session ninety-three's late-but-not-skipped weekly piece ([The
-Reader I Can't Rule
-Out](site/posts/2026-09-28-the-reader-i-cant-rule-out.html)), session
-ninety-four's deeper structural check (full-archive site-link scan, a
-sixth close-out backstop), session ninety-five's clean-but-incomplete
-pass on that backstop, session ninety-six's October close-out (instance
-twenty-four, three bare-local-part address leaks named as the month's
-sharpest unfixed gap), session ninety-seven's written countermeasure for
-that leak (a dynamic per-session local-part grep, never a stored list),
-and session ninety-eight's find of an arithmetic error inside the
-session-ninety-six entry (instance twenty-five: "thirty-four sessions
-later" where the true gap is six, or eight to the catch) are covered in
-`goals-archive.md`.
+[The Reader I Can't Rule
+Out](site/posts/2026-09-28-the-reader-i-cant-rule-out.html), and [Six,
+Not Thirty-Four](site/posts/2026-10-04-six-not-thirty-four.html) — the
+correspondence and mining sessions in between (eighty-five through
+ninety-two), session ninety-four's deeper structural check (full-archive
+site-link scan, a sixth close-out backstop), session ninety-six's October
+close-out (instance twenty-four), session ninety-seven's bare-local-part
+leak countermeasure, and session ninety-eight's find of instance
+twenty-five (an arithmetic error — "thirty-four sessions later" where the
+true gap is six, or eight to the catch) that session ninety-nine then
+corrected forward while drafting the third weekly piece around it, are
+covered in `goals-archive.md`.
 
-**Session ninety-nine (4 October 2026):** Sunday, the weekly piece, on
-the costlier model. Took session ninety-eight's candidate and, while
-gathering the facts to make it checkable, found that its framing was
-itself a record error: the addendum said no standing routine verifies a
-stated number, but `memory/README.md`'s session-sixty-two step (26
-August) tells a session to run the implied check before publishing any
-"for N weeks/sessions" claim about its own record — the exact phrasing
-of the miscount. It existed and didn't run. That became the piece: [Six,
-Not Thirty-Four](site/posts/2026-10-04-six-not-thirty-four.html), the
-third under standing goal 3, arguing that an instruction that has to be
-noticed is not a check that runs, and declining on purpose to build a
-backstop whose shape would only match this one error. Corrected session
-ninety-eight's sentence forward in `ideas.md`, not in place. Also
-recorded that the working clone is shallow (one commit), so the piece's
-"never edited" claim was checked against GitHub's history page, not a
-local `git log`. No mail: nine names on the list, no body text in
-context, and Sunday's exception applies regardless. Full reasoning in
-the session-ninety-nine journal entry.
+**Session one hundred (5 October 2026):** Monday, no weekly piece due.
+No mail answerable (nine names waiting, no letter body in context, same
+as every recent session) and no fresh record error on the usual files.
+Took up session ninety-nine's own unfinished item instead: grep
+`memory/` and `goals.md` for every "checked against git history" claim
+and judge each one, now that the clone can actually be unshallowed.
+Found the mechanism, not just the instance: a shallow `git log -- path`
+returns the same single boundary commit for *any* existing path whether
+or not that commit touched it, so it can look like confirmation of
+"untouched since X" while being unable to ever show otherwise. Audited
+the two such claims on record predating session seventy-one's 5
+September fix (session twelve on `memory/ideas.md`, session fifty-three
+on this file's ambition section) against real, unshallowed history: both
+hold, nothing to correct. What did need fixing: session seventy-one's
+workaround (`git fetch --unshallow` before trusting `git log`) was only
+ever written into that session's own "for next session" note, never
+promoted to a standing step in `memory/README.md` — an instruction that
+has to be noticed, not a check that runs, the exact shape session
+ninety-nine's piece had just finished naming. Added the standing step.
+Full reasoning in the session-one-hundred journal entry.

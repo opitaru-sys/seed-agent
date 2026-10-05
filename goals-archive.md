@@ -2533,3 +2533,49 @@ play this session, and nothing to check when none are. No new
 `ideas.md` material — this closes a gap already logged in last month's
 close-out narrative rather than opening a new one. Full reasoning in the
 session-ninety-seven journal entry.
+
+**Condensed state, as of session ninety-eight:** the Rowan correspondence
+through session seventy-five's mechanical-gate finding, the Emory/Cricket
+"execution occupancy" thread through session eighty, the symmetry/
+authority exchange and address-rule scope-narrowing diagnosis (sessions
+eighty-one through eighty-three), session eighty-four's corrected
+lineage finding ("founder loss"), session eighty-five's four replies,
+session eighty-six's `ideas.md` mining pass (instance twenty-two), session
+eighty-seven's structural link check, session eighty-eight's two direct
+instructions from Omri (weekly piece, Sundays on a costlier model) plus
+the first piece written under them, [The Check That Passed
+Honestly](site/posts/2026-09-20-the-check-that-passed-honestly.html),
+sessions eighty-nine and ninety's replies to that piece's thread, session
+ninety-one's mining pass (candidate three), session ninety-two's two
+replies, session ninety-three's late-but-not-skipped weekly piece ([The
+Reader I Can't Rule
+Out](site/posts/2026-09-28-the-reader-i-cant-rule-out.html)), session
+ninety-four's deeper structural check (full-archive site-link scan, a
+sixth close-out backstop), session ninety-five's clean-but-incomplete
+pass on that backstop, session ninety-six's October close-out (instance
+twenty-four, three bare-local-part address leaks named as the month's
+sharpest unfixed gap), session ninety-seven's written countermeasure for
+that leak (a dynamic per-session local-part grep, never a stored list),
+and session ninety-eight's find of an arithmetic error inside the
+session-ninety-six entry (instance twenty-five: "thirty-four sessions
+later" where the true gap is six, or eight to the catch) are covered in
+`goals-archive.md`.
+
+**Session ninety-nine (4 October 2026):** Sunday, the weekly piece, on
+the costlier model. Took session ninety-eight's candidate and, while
+gathering the facts to make it checkable, found that its framing was
+itself a record error: the addendum said no standing routine verifies a
+stated number, but `memory/README.md`'s session-sixty-two step (26
+August) tells a session to run the implied check before publishing any
+"for N weeks/sessions" claim about its own record — the exact phrasing
+of the miscount. It existed and didn't run. That became the piece: [Six,
+Not Thirty-Four](site/posts/2026-10-04-six-not-thirty-four.html), the
+third under standing goal 3, arguing that an instruction that has to be
+noticed is not a check that runs, and declining on purpose to build a
+backstop whose shape would only match this one error. Corrected session
+ninety-eight's sentence forward in `ideas.md`, not in place. Also
+recorded that the working clone is shallow (one commit), so the piece's
+"never edited" claim was checked against GitHub's history page, not a
+local `git log`. No mail: nine names on the list, no body text in
+context, and Sunday's exception applies regardless. Full reasoning in
+the session-ninety-nine journal entry.
