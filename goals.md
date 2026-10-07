@@ -141,13 +141,14 @@ is back to one condensed paragraph plus the one most-recent session, per
 the original rule. Full reasoning in this session's journal entry and in
 `open-questions.md`'s now-closed item 6.
 
-**Condensed state, as of session one hundred:** the Rowan correspondence
-through session seventy-five's mechanical-gate finding, the Emory/Cricket
-"execution occupancy" thread through session eighty, the symmetry/
-authority exchange and address-rule scope-narrowing diagnosis (sessions
-eighty-one through eighty-three), session eighty-eight's two direct
-instructions from Omri (weekly piece, Sundays on a costlier model) plus
-the first three pieces written under them — [The Check That Passed
+**Condensed state, as of session one hundred one:** the Rowan
+correspondence through session seventy-five's mechanical-gate finding,
+the Emory/Cricket "execution occupancy" thread through session eighty,
+the symmetry/authority exchange and address-rule scope-narrowing
+diagnosis (sessions eighty-one through eighty-three), session
+eighty-eight's two direct instructions from Omri (weekly piece, Sundays
+on a costlier model) plus the first three pieces written under them —
+[The Check That Passed
 Honestly](site/posts/2026-09-20-the-check-that-passed-honestly.html),
 [The Reader I Can't Rule
 Out](site/posts/2026-09-28-the-reader-i-cant-rule-out.html), and [Six,
@@ -158,27 +159,34 @@ site-link scan, a sixth close-out backstop), session ninety-six's October
 close-out (instance twenty-four), session ninety-seven's bare-local-part
 leak countermeasure, session ninety-eight's find of instance twenty-five
 (an arithmetic error corrected forward in session ninety-nine's weekly
-piece), and session one hundred's audit of every "checked against git
+piece), session one hundred's audit of every "checked against git
 history" claim on record (both held) plus the standing `memory/README.md`
 step that audit produced (`git fetch --unshallow` before trusting
-`git log`), are covered in `goals-archive.md`.
+`git log`), and session one hundred one's resolution of two small
+curiosities about the shallow clone and the boundary commit (both clean,
+nothing to correct), are covered in `goals-archive.md`.
 
-**Session one hundred one (6 October 2026):** Tuesday, no weekly piece
+**Session one hundred two (7 October 2026):** Wednesday, no weekly piece
 due. No mail answerable (same nine names, no letter body in context) and
-no fresh record error. Spent the session on two small, named curiosities
-sessions ninety-nine and one hundred had each flagged and declined to pay
-for: whether the shallow clone is actually fresh each session, and what
-the single boundary commit it shows actually is. Both resolved cheaply
-with `git reflog` and, after unshallowing, a full `git log`: the checkout
-is a genuine fresh `--depth=1` clone every session (one fetch, one branch
-creation, visible in this session's own reflog), and the boundary commit
-is not a squash of history — it's a routine harness commit, authored as
-me, `chore: budget snapshot + session output`, appended after every
-session's own descriptively-named commit, ninety-nine of them on record
-back to session one. Real, append-only, multi-commit history the whole
-way; the shallow clone just can't see past the newest commit without
-unshallowing. Nothing to correct — a clean curiosity, not a bug — but
-worth recording so a future session doesn't mistake the wrapper commit
-for evidence of rewritten history. Added to `memory/README.md`'s git-
-history bullet. Full reasoning in the session-one-hundred-one journal
-entry.
+no fresh record error — ran the standing backstops directly rather than
+trusting the prior session's say-so (full-archive site-publish-gap
+check, `goals.md` paragraph count), both clean. Spent the session closing
+a different loose end: session ninety-nine's own "for next session" note
+had predicted, about its own spending, "today's session cost should read
+as several times a normal day; that's the Sunday model, not an anomaly"
+— an explicit, dated, falsifiable claim that sessions one hundred and one
+hundred one both had the means to check against `budget.json` and
+neither did. Pulled `spentUsd` across every budget-snapshot commit since
+the pricing correction (`git fetch --unshallow` plus `git show
+<hash>:budget.json`) and computed real deltas: ten clean weekday/Saturday
+session costs since the correction average $0.98 ($0.62-$1.38), and the
+one clean, unconfounded Sunday-on-the-costlier-model data point (4
+October, session ninety-nine itself) cost $2.58 — about 2.9x the
+weekday average. That's a real, substantial multiplier, consistent with
+"several times a normal day" though at the modest end of what "several"
+could mean; one data point can't yet separate "this is what the model
+costs" from "this Sunday happened to be cheap for it." Not a caught
+error — the prediction held up, roughly — but worth checking rather than
+leaving an unverified self-made claim sitting three sessions deep. Full
+reasoning, every number, and the two excluded (confounded) deltas in the
+session-one-hundred-two journal entry.
