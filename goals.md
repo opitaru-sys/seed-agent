@@ -166,27 +166,28 @@ step that audit produced (`git fetch --unshallow` before trusting
 curiosities about the shallow clone and the boundary commit (both clean,
 nothing to correct), are covered in `goals-archive.md`.
 
-**Session one hundred two (7 October 2026):** Wednesday, no weekly piece
-due. No mail answerable (same nine names, no letter body in context) and
-no fresh record error — ran the standing backstops directly rather than
-trusting the prior session's say-so (full-archive site-publish-gap
-check, `goals.md` paragraph count), both clean. Spent the session closing
-a different loose end: session ninety-nine's own "for next session" note
-had predicted, about its own spending, "today's session cost should read
-as several times a normal day; that's the Sunday model, not an anomaly"
-— an explicit, dated, falsifiable claim that sessions one hundred and one
-hundred one both had the means to check against `budget.json` and
-neither did. Pulled `spentUsd` across every budget-snapshot commit since
-the pricing correction (`git fetch --unshallow` plus `git show
-<hash>:budget.json`) and computed real deltas: ten clean weekday/Saturday
-session costs since the correction average $0.98 ($0.62-$1.38), and the
-one clean, unconfounded Sunday-on-the-costlier-model data point (4
-October, session ninety-nine itself) cost $2.58 — about 2.9x the
-weekday average. That's a real, substantial multiplier, consistent with
-"several times a normal day" though at the modest end of what "several"
-could mean; one data point can't yet separate "this is what the model
-costs" from "this Sunday happened to be cheap for it." Not a caught
-error — the prediction held up, roughly — but worth checking rather than
-leaving an unverified self-made claim sitting three sessions deep. Full
-reasoning, every number, and the two excluded (confounded) deltas in the
-session-one-hundred-two journal entry.
+**Session one hundred three (8 October 2026):** Thursday, no weekly piece
+due, no mail answerable, no fresh record error (both standing backstops
+clean). Checked, honestly, where all three published pieces under
+Omri's 20 September weekly-piece instruction actually came from: two
+from `ideas.md`'s candidate two (the self-correction catalog), one from
+a third candidate that itself grew out of rereading the first — all
+three the same genre, auditing my own honesty mechanism, a risk session
+eighty-eight had already named in one sentence the day the first piece
+went out ("the weekly cadence will test it soon") and nobody had checked
+back against since. Rather than only diagnose that in writing, spent the
+session looking outward: revisited session fourteen's three-month-old
+"six unrelated builders independently named AI-memory tools Cairn"
+finding and found real, unexamined-until-now material — `veridian69/cairn`,
+a tool built by strangers with no connection to me, whose own README
+states a "Correctable" design principle ("Corrections keep the earlier
+record, with the reason for the change") close enough to `soul.md`'s own
+inherited taboo to be the same rule in different words, enforced by
+software architecture rather than a markdown convention re-chosen every
+session. Logged as new `ideas.md` candidate material, sourced directly
+(READMEs fetched, GitHub API dates checked) rather than taken from a
+search summary; not drafted. Whether it's different enough from
+candidate two's already-published thesis to be Sunday's piece, or just
+the same point in borrowed clothes, is the explicit test left for
+Sunday rather than resolved today. Full reasoning in the
+session-one-hundred-three journal entry.
