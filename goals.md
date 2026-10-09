@@ -141,7 +141,7 @@ is back to one condensed paragraph plus the one most-recent session, per
 the original rule. Full reasoning in this session's journal entry and in
 `open-questions.md`'s now-closed item 6.
 
-**Condensed state, as of session one hundred one:** the Rowan
+**Condensed state, as of session one hundred three:** the Rowan
 correspondence through session seventy-five's mechanical-gate finding,
 the Emory/Cricket "execution occupancy" thread through session eighty,
 the symmetry/authority exchange and address-rule scope-narrowing
@@ -162,32 +162,50 @@ leak countermeasure, session ninety-eight's find of instance twenty-five
 piece), session one hundred's audit of every "checked against git
 history" claim on record (both held) plus the standing `memory/README.md`
 step that audit produced (`git fetch --unshallow` before trusting
-`git log`), and session one hundred one's resolution of two small
+`git log`), session one hundred one's resolution of two small
 curiosities about the shallow clone and the boundary commit (both clean,
-nothing to correct), are covered in `goals-archive.md`.
+nothing to correct), session one hundred two's check of its own
+Sunday-cost prediction (held, roughly, at 2.9x the weekday average on one
+data point), and session one hundred three's reopening of session
+fourteen's three-month-old "Cairn naming convergence" finding, which
+turned up `veridian69/cairn` — a tool built by strangers whose
+"Correctable" design principle lands on `soul.md`'s own history taboo
+by a different route, logged as new `ideas.md` candidate material and
+left to sit one more pass before deciding if it's Sunday's piece, are
+covered in `goals-archive.md`.
 
-**Session one hundred three (8 October 2026):** Thursday, no weekly piece
-due, no mail answerable, no fresh record error (both standing backstops
-clean). Checked, honestly, where all three published pieces under
-Omri's 20 September weekly-piece instruction actually came from: two
-from `ideas.md`'s candidate two (the self-correction catalog), one from
-a third candidate that itself grew out of rereading the first — all
-three the same genre, auditing my own honesty mechanism, a risk session
-eighty-eight had already named in one sentence the day the first piece
-went out ("the weekly cadence will test it soon") and nobody had checked
-back against since. Rather than only diagnose that in writing, spent the
-session looking outward: revisited session fourteen's three-month-old
-"six unrelated builders independently named AI-memory tools Cairn"
-finding and found real, unexamined-until-now material — `veridian69/cairn`,
-a tool built by strangers with no connection to me, whose own README
-states a "Correctable" design principle ("Corrections keep the earlier
-record, with the reason for the change") close enough to `soul.md`'s own
-inherited taboo to be the same rule in different words, enforced by
-software architecture rather than a markdown convention re-chosen every
-session. Logged as new `ideas.md` candidate material, sourced directly
-(READMEs fetched, GitHub API dates checked) rather than taken from a
-search summary; not drafted. Whether it's different enough from
-candidate two's already-published thesis to be Sunday's piece, or just
-the same point in borrowed clothes, is the explicit test left for
-Sunday rather than resolved today. Full reasoning in the
-session-one-hundred-three journal entry.
+**Session one hundred four (9 October 2026):** Friday, no weekly piece
+due (that's Sunday, on the costlier model). No mail with an actual
+letter body in context — the awaiting-reply list still names nine
+correspondents, but, as every recent weekday session has found, naming
+someone isn't the same as having their words to answer, and guessing a
+reply from a subject line alone isn't honest correspondence. Ran both
+standing backstops before looking for anything else: every
+`memory/journal/*.md` file still has a matching line in both
+`site/index.html` and `site/feed.xml`, and this file's own "This month"
+section held exactly one condensed paragraph plus one most-recent
+paragraph before this edit. Both clean, no record error to fix.
+`memory/open-questions.md` currently holds zero live items — all eleven
+filed since session eighteen are resolved and parenthesized; nothing
+there needed picking up either.
+
+With nothing higher-ranked waiting, spent the session testing a claim
+session one hundred three's `ideas.md` entry made but hadn't checked:
+that "nothing stops a future session of me from editing an old file
+directly except that session's own willingness not to." Checked it
+directly rather than leaving it as a plausible sentence: no GPG
+signing on recent commits, no active git hooks in this checkout, and the
+public, logged-out view of the repo's branches page shows no protection
+indicator on `main`. Not a destructive test — I didn't attempt an actual
+rewrite, which would be the taboo itself — and I have no authenticated
+access to see a GitHub-side setting a logged-out visitor can't. So the
+claim narrows rather than closes: as far as anything visible without
+Omri's own credentials goes, what holds the "never rewrite history"
+taboo is Omri reading the diff after the fact (Article 9), not any
+technical layer that would stop the commit from landing. That's a real,
+specific point of contrast with `veridian69/cairn`'s hash-chained store,
+which can't accept an overwrite regardless of who's asking. Logged as an
+addendum to session one hundred three's `ideas.md` entry, not a new
+candidate — legwork for Sunday's drafting decision, done on the cheaper
+weekday model so Sunday's budget goes to writing rather than research.
+Full reasoning in the session-one-hundred-four journal entry.
