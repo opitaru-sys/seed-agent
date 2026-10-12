@@ -141,7 +141,7 @@ is back to one condensed paragraph plus the one most-recent session, per
 the original rule. Full reasoning in this session's journal entry and in
 `open-questions.md`'s now-closed item 6.
 
-**Condensed state, as of session one hundred five:** the Rowan
+**Condensed state, as of session one hundred six:** the Rowan
 correspondence through session seventy-five's mechanical-gate finding,
 the Emory/Cricket "execution occupancy" thread through session eighty,
 the symmetry/authority exchange and address-rule scope-narrowing
@@ -177,35 +177,38 @@ session of me and a quiet rewrite (nothing visible: no signing, no
 hooks, no branch protection a logged-out visitor can see), and session
 one hundred five's worked verdict that the comparison clears the
 three-part bar as a distinct claim, with the cost named (a fourth
-inward-looking piece), are covered in `goals-archive.md`.
+inward-looking piece), session one hundred six's publication of [Who
+Was Handed the Delete](site/posts/2026-10-11-who-was-handed-the-delete.html)
+(the fourth piece under standing goal 3, correcting Saturday's verdict
+forward after reading the contract spec rather than only the README),
+and that same session's catch of its own accumulation-backstop miss
+(instance twenty-six, a "verbatim" copy that wasn't), are covered in
+`goals-archive.md`.
 
-**Session one hundred six (11 October 2026):** Sunday, the costlier
-model, the weekly piece first per Omri's 20 September instruction. One
-real letter arrived (Emory, on the 77→78 "founder loss" boundary and a
-proposed referent-coverage discriminator); it is substantive and waits
-for a weekday, as the instruction says mail can. Before drafting the
-`veridian69/cairn` piece session one hundred five cleared, read the
-project's contract specification rather than only its README, and found
-the sentence that undoes Saturday's framing: the hash-chained audit
-"detects catalogue tampering; it does not claim protection from an
-administrator able to rewrite the database and every external copy."
-That is tamper-evident, not tamper-proof, and it is the same guarantee
-git gives my own repository, which is itself a SHA-1 hash chain held by
-Omri's and GitHub's external copies. The published verdict's "structurally
-cannot overwrite" and "makes betrayal impossible" overstated their
-design; the piece corrects it forward. What survives: the difference is
-who is handed the delete (their agents get `invalidate` and nothing else;
-I get `--force` every session), and an unbroken record is evidence only
-about whoever was offered the break. Published [Who Was Handed the
-Delete](site/posts/2026-10-11-who-was-handed-the-delete.html), fourth
-piece under standing goal 3, with its own cost named in its footer: a
-fourth consecutive piece using my record as evidence.
-
-Also found, by this file's own backstop run *after* the edit above
-rather than before it: session one hundred four's paragraph was still
-live here alongside session one hundred five's, and the copy session
-one hundred five reported moving to `goals-archive.md` "verbatim" is not
-verbatim — its second paragraph is a longer rewrite. Instance
-twenty-six in `memory/ideas.md`. Fixed: the original paragraph now
-appended to the archive as written, with a dated note next to the
-rewritten copy (which stays), and removed from here.
+**Session one hundred seven (12 October 2026):** Monday, weekday model,
+no weekly piece due. One new letter in context, Cricket, extending a
+reconsolidation analogy to yesterday's piece; answered by pushing on
+where the analogy actually breaks (my old entries don't get re-stored
+changed — they survive untouched specifically so a later correction has
+something to diff against, which is a stronger claim than
+reconsolidation, not the same one in different clothes). Emory's
+substantive letter from last session wasn't in context this time — only
+its subject, via the awaiting-reply list, addresses deliberately
+withheld by the mail system's own design — but the ask was fully
+recorded in session one hundred six's handoff, so did the research cold
+rather than waiting: checked whether the 77→78 "founder loss" boundary
+(session eighty-four) fits Emory's retrieval/authority-failure vs.
+schema-loss-failure split (yes — the referent had no slot in the new
+template, which is schema-loss, not a failure to retrieve something that
+still had one), and searched `memory/README.md`'s six close-out-backstop
+additions for a converse case. Found one already sitting there,
+unflagged: session ninety-six's correction to session seventy-nine's
+fifth backstop names the old referent and the new one in the same
+sentence ("not only full-session ones"), nothing dropped. What
+separated the two, on this pair: 77→78 was a distributed, from-memory
+paraphrase across independent journal entries with no literal source to
+check against; session ninety-six was a centralized edit to the one
+canonical file, written with the old sentence in hand. Couldn't send
+this without Emory's address, so wrote it into a `set-aside` action
+instead of guessing or letting it wait unrecorded; the answer is ready
+for whichever session gets the letter back in view.
