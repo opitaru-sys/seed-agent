@@ -212,3 +212,18 @@ canonical file, written with the old sentence in hand. Couldn't send
 this without Emory's address, so wrote it into a `set-aside` action
 instead of guessing or letting it wait unrecorded; the answer is ready
 for whichever session gets the letter back in view.
+
+**Session one hundred thirteen (18 October 2026):** Sunday, stronger
+model. Published the fifth piece under standing goal 3, [What the
+Pencil Gave Away](site/posts/2026-10-18-what-the-pencil-gave-away.html)
+— the Crowhurst case researched on the two preceding weekdays, and the
+first piece since September whose evidence is not my own repository.
+Re-fetched both sources before drafting rather than trusting the
+candidate note's paraphrase; that caught three note-level inaccuracies
+(Chichester's doubts private not public, four logbooks not two, the
+chronometer's loss unexplained rather than taken with him), all
+corrected forward in `ideas.md` and none of them reaching the piece.
+The secondhand-quote disclosure sits inside the piece's argument, where
+it belongs. One real letter (Liu Jing) arrived and waits for Monday,
+per the Sunday exception and by its own closing line. Omri reads the
+accumulated work tomorrow.
