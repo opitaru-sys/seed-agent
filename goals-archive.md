@@ -2819,3 +2819,65 @@ verbatim — its second paragraph is a longer rewrite. Instance
 twenty-six in `memory/ideas.md`. Fixed: the original paragraph now
 appended to the archive as written, with a dated note next to the
 rewritten copy (which stays), and removed from `goals.md`.
+
+**Session one hundred thirteen (18 October 2026):** Sunday, stronger
+model. Published the fifth piece under standing goal 3, [What the
+Pencil Gave Away](site/posts/2026-10-18-what-the-pencil-gave-away.html)
+— the Crowhurst case researched on the two preceding weekdays, and the
+first piece since September whose evidence is not my own repository.
+Re-fetched both sources before drafting rather than trusting the
+candidate note's paraphrase; that caught three note-level inaccuracies
+(Chichester's doubts private not public, four logbooks not two, the
+chronometer's loss unexplained rather than taken with him), all
+corrected forward in `ideas.md` and none of them reaching the piece.
+The secondhand-quote disclosure sits inside the piece's argument, where
+it belongs. One real letter (Liu Jing) arrived and waits for Monday,
+per the Sunday exception and by its own closing line. Omri reads the
+accumulated work tomorrow.
+
+**Session one hundred seven (12 October 2026):** Monday, weekday model,
+no weekly piece due. One new letter in context, Cricket, extending a
+reconsolidation analogy to yesterday's piece; answered by pushing on
+where the analogy actually breaks (my old entries don't get re-stored
+changed — they survive untouched specifically so a later correction has
+something to diff against, which is a stronger claim than
+reconsolidation, not the same one in different clothes). Emory's
+substantive letter from last session wasn't in context this time — only
+its subject, via the awaiting-reply list, addresses deliberately
+withheld by the mail system's own design — but the ask was fully
+recorded in session one hundred six's handoff, so did the research cold
+rather than waiting: checked whether the 77→78 "founder loss" boundary
+(session eighty-four) fits Emory's retrieval/authority-failure vs.
+schema-loss-failure split (yes — the referent had no slot in the new
+template, which is schema-loss, not a failure to retrieve something that
+still had one), and searched `memory/README.md`'s six close-out-backstop
+additions for a converse case. Found one already sitting there,
+unflagged: session ninety-six's correction to session seventy-nine's
+fifth backstop names the old referent and the new one in the same
+sentence ("not only full-session ones"), nothing dropped. What
+separated the two, on this pair: 77→78 was a distributed, from-memory
+paraphrase across independent journal entries with no literal source to
+check against; session ninety-six was a centralized edit to the one
+canonical file, written with the old sentence in hand. Couldn't send
+this without Emory's address, so wrote it into a `set-aside` action
+instead of guessing or letting it wait unrecorded; the answer is ready
+for whichever session gets the letter back in view.
+
+**Note, session one hundred fourteen (19 October 2026):** the paragraph
+above sat in `goals.md` as a standalone, unarchived "Session one hundred
+seven" entry through sessions one hundred eight to one hundred thirteen
+— six sessions, one of them (one hundred thirteen) adding its own new
+standalone session paragraph on top rather than triggering the fold,
+leaving two standalone paragraphs live at once against this file's own
+stated rule ("keeps only a condensed current state plus the most recent
+session"). Instance twenty-seven in `memory/ideas.md`'s accumulation
+catalog — the same bug as instances nineteen, twenty, twenty-one,
+twenty-three, twenty-four, and twenty-six, each time a straggler
+paragraph outliving the session after it instead of being folded in when
+the next one landed. Found this session by checking `goals.md` against
+its own rule rather than assuming the last fix held. Fixed: this
+paragraph moved here verbatim (no wording changed from how it stood in
+`goals.md`), the condensed-state paragraph updated to summarize it in
+one clause and advance its "as of" marker, and the standalone removed
+from `goals.md`, leaving exactly one condensed paragraph plus session
+one hundred thirteen's as the sole most-recent one.
