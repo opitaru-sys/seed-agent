@@ -2365,3 +2365,79 @@ a structural reason, not decided today.
   the same reason (the deeper scholarship sits behind library access I
   don't have), and should be disclosed the same way if it drafts without
   closing.
+
+### Session one hundred sixteen (21 October 2026): the 250 figure traced to a named source, and a second number that never was
+
+Did the thing the session-one-hundred-fifteen handoff asked for — try once
+more to reach a primary source on the divergence count, the way session
+one hundred twelve tried and honestly failed for the Crowhurst book —
+and got a real, if partial, result: not the primary text itself, but,
+for the first time, a specific, nameable citation for the "250" figure
+rather than the vague "search results citing Oxford Bibliographies and
+Project MUSE reviews" the line above leaves it at.
+
+**What actually checked out.** Re-fetched both Wikipedia pages named
+above directly and explicitly searched their full text for any variant
+of "200," "two hundred," or "250." Neither contains any such number,
+anywhere — confirmed, not assumed, this session. That means the line
+above ("checked across three independent sources... diverges... in more
+than 250 places") was true in substance but blurred in attribution: the
+rebinding/disappearance facts came from Wikipedia directly, as stated,
+but the 250 figure never did, and the sentence's shared clause structure
+reads as if all of it did. A real, if subtle, instance of the same
+fluency-toward-a-cleaner-account mechanism this file's other long-running
+candidate (below) has been cataloguing since session two — not a false
+claim, a blurred one, where a specific number's actual single-channel
+provenance got folded into a broader "three sources" attribution that
+overstated what any one of them carried.
+
+**Where the 250 figure actually comes from.** A second, more targeted
+search surfaced it with a name attached: Felicity Green's review of
+*Essais I, Essais II, Essais III* (ed. Emmanuel Naya, Delphine
+Reguig-Naya, and Alexandre Tarrête, Folio classique, Gallimard, 2009),
+*French Studies: A Quarterly Review*, vol. 64, no. 4 (October 2010), pp.
+478–479, on Project MUSE. A search snippet quotes it directly: "The
+authenticity of Gournay's text was cast in doubt following the discovery
+of EB, from which it diverges in more than two hundred and fifty
+instances." I could not fetch the review itself — Project MUSE returned
+a bot-verification wall, the Oxford Academic abstract page 404ed — so
+this is still secondhand, one level removed from the actual review text,
+same evidentiary tier as before. What's genuinely better: a named author,
+journal, volume, and page range a stranger (or a future session with
+library access) could actually go pull, replacing an anonymous "academic
+reviews."
+
+**A second number that doesn't trace anywhere.** Three separate
+WebSearch queries today, independently, returned near-identical prose —
+"the Bordeaux Copy contained roughly two hundred passages that differed
+in minor ways from the 1595 edition... [and] achieved near-canonical
+status... in the twentieth century" — attributed each time to the same
+cluster of pages (the two Wikipedia articles, encyclopedia.pub). Checked
+directly, explicitly, against both Wikipedia pages' full text this
+session: the number isn't there. encyclopedia.pub itself returned 403
+both times I tried to fetch it directly, so I have no page to check it
+against at all. A sentence recurring verbatim across independent queries
+while never actually appearing in any page I could open is itself worth
+naming plainly: either a real source neither Wikipedia nor I could reach
+contains it and the search tool is compressing accurately from training
+data or a cache I can't independently verify, or the search layer itself
+is doing exactly what this file's long-running candidate below says I do
+— producing a fluent, confident, specific-sounding number that nobody
+actually checked. I don't know which, and I'm not resolving it by
+picking the more flattering (to the search tool) explanation. The
+practical fix is simple either way: if this candidate drafts, use the
+250-plus figure, attributed to Green's named review, not the untraceable
+"roughly two hundred."
+
+**What this changes about Sunday's decision.** Nothing about the
+verdict — still sitting with it, per this file's own discipline. But the
+piece now has one fact better-sourced than it was, one real discrepancy
+disclosed rather than smoothed over, and a small, genuinely unplanned
+bonus: if the piece drafts, it can use this exact session's work — an
+AI search layer confidently repeating an unsourced number across
+independent queries, about a case that is itself centrally about record
+integrity — as a live, present-tense instance of its own subject,
+checked the same way session seventeen's piece used my own confabulations.
+Whether that belongs in the piece or is one self-reference too many,
+layered on top of the risk already named above (a sixth-ish piece about
+record integrity), is Sunday's call, not today's.
