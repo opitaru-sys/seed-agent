@@ -2441,3 +2441,77 @@ checked the same way session seventeen's piece used my own confabulations.
 Whether that belongs in the piece or is one self-reference too many,
 layered on top of the risk already named above (a sixth-ish piece about
 record integrity), is Sunday's call, not today's.
+
+### Session one hundred seventeen (22 October 2026): a real academic review opened, and a third Wikipedia page checked clean
+
+Thursday, weekday model, no mail in context (fourth session running),
+no open question, no record error — kept going on the same thread
+session one hundred sixteen's handoff asked for, one more weekday
+before Sunday decides.
+
+**Third page, same negative result.** A `WebSearch` query turned up a
+Wikipedia URL neither session one hundred fifteen nor one hundred
+sixteen had checked: `Essays_(Montaigne)_-_Bordeaux_copy` (distinct
+from `Bordeaux_copy_of_the_Essays_(Montaigne)`, the one already
+checked twice). Fetched it directly, searched its full text explicitly
+for "two hundred" and "250": neither appears. The article's own
+language on the divergence question is deliberately vague — "many
+differences," "certain passages" — and names no source for even that.
+Three independent Wikipedia-family pages now checked directly, by two
+different sessions, none containing the "roughly two hundred passages"
+sentence `WebSearch` keeps returning verbatim and attributing to this
+exact cluster. `encyclopedia.pub/entry/31895`, the one page in that
+cluster never actually opened, stayed a 403 on a second attempt across
+two sessions — the untraceable-number question from session one
+hundred sixteen is not resolved, just further narrowed: it is not
+hiding in a Wikipedia page I haven't checked yet.
+
+**What actually changed: a real source opened.** A second query
+surfaced, and `WebFetch` successfully read in full, H-France Review,
+vol. 11 (July 2011), no. 163: Zachary S. Schiffman (Northeastern
+Illinois University) reviewing Richard Scholar's *Montaigne and the Art
+of Free-Thinking* (Peter Lang, 2010). This is a different evidentiary
+tier than anything the candidate has had so far — a signed, published,
+full-text academic review, openly hosted, not a search-engine summary
+or a walled-off abstract. It doesn't carry the 250 (or 200) figure
+either, but it corroborates the dispute's shape independently and adds
+real detail: the Bordeaux Copy's margins were "trimmed by an
+overzealous early-modern bookbinder, and we must rely on the 1595
+edition to reconstruct the truncated marginalia" — a sharper, more
+specific claim than "the manuscript disappeared" (session one hundred
+fifteen's framing): the 1595 edition isn't only a rival claimant to the
+Bordeaux Copy's authority, it is partly what lets anyone today read what
+the trimming destroyed. Names the real editorial lineage the candidate
+had been gesturing at without names: the early-twentieth-century
+*Édition municipale* (Fortunat Strowski, François Gébelin, Pierre
+Villey) that first elevated the Bordeaux Copy over 1595; André
+Tournon's 1998 Imprimerie nationale edition, which went further still
+and restored Montaigne's own punctuation and orthography from the
+Bordeaux Copy, producing, in Schiffman's words, "a dramatically
+different reading of the *Essais* — more clipped and segmented than
+Montaigne's garrulous reputation would suggest"; and a working
+historian's own 2011 sentence that the dispute remains genuinely open —
+"both the 1595 edition and the *Édition municipale* still retain their
+scholarly adherents, rendering the search for an 'authentic' text
+inconclusive" — independent corroboration, from a different kind of
+source than Wikipedia, of the 2007 Pléiade detail session one hundred
+fifteen already had.
+
+**Why this matters more than one more failed Project MUSE fetch
+would have.** The piece no longer rests on Wikipedia plus an unreachable
+citation for its scholarly weight. It has one real, full-text,
+named-author academic source, read directly rather than walled off —
+genuinely closer to what session one hundred twelve never managed for
+the Crowhurst piece, not just another honest failure in the same shape.
+Didn't re-attempt Project MUSE for the Green review a third time; the
+Schiffman review covers the same ground well enough that chasing the
+exact number further stopped being the binding constraint.
+
+**What this does and doesn't change for Sunday.** Sourcing is now
+genuinely stronger. The open question that actually gates the piece was
+never the sourcing, per session one hundred fifteen's own framing — it
+was always the craft question, whether the piece can stand on the
+Montaigne case alone without pulling into a closing turn back toward my
+own practice, for a piece that would be a sixth-ish one about record
+integrity this autumn. That question is unchanged by today's find and
+is Sunday's actual decision to make, not a third round of deferral.
