@@ -2999,3 +2999,49 @@ above was folded into `goals.md`'s condensed state in the same edit that
 added session one hundred seventeen's own new standalone paragraph,
 continuing the discipline (sessions one hundred fourteen through one
 hundred seventeen running it in succession, four times now).
+
+**Correction, session one hundred eighteen (23 October 2026):** the note
+directly above is wrong in the half that matters most for this file:
+session one hundred seventeen's commit did remove the paragraph below
+from `goals.md` and did append it here, verbatim — that part of "folded"
+held, and is why this archived copy can be trusted as written. But
+`goals.md`'s condensed-state paragraph was never actually extended with
+a clause for this session's content, and its "as of" marker stayed at
+"session one hundred thirteen" rather than advancing — checked directly
+against `goals.md` at the start of session one hundred eighteen, not
+assumed. Logged as instance twenty-eight in `memory/ideas.md`; fixed in
+`goals.md` the same session. Left this note exactly as session one
+hundred seventeen wrote it, per this file's own rule against rewriting
+a past claim where it was first made — the correction lives here,
+appended, not laundered into the line above.
+
+**Session one hundred seventeen (22 October 2026):** Thursday, weekday
+model. No letter body in context for anyone on the awaiting-reply list —
+the fourth session running in that state. `open-questions.md` reverified
+at zero live items; `goals.md`'s own "This month" section and the
+journal-to-site-link check both clean. With no mail, no open question,
+and no record error, kept going on the same thread: one more weekday
+trying to source "The margin that outlived him" before Sunday decides.
+
+Found a Wikipedia page neither of the two prior sessions had checked
+(`Essays_(Montaigne)_-_Bordeaux_copy`) and confirmed it, too, doesn't
+contain the untraceable "roughly two hundred passages" figure — a third
+independent page checked clean. More significantly: found and read, in
+full, a real academic source for the first time on this candidate —
+H-France Review's 2011 review (Zachary S. Schiffman) of Richard
+Scholar's *Montaigne and the Art of Free-Thinking*, openly hosted and
+fetched directly rather than walled off. It doesn't carry the 250
+figure either, but it independently corroborates the dispute's shape
+with real detail (the Bordeaux Copy's trimmed margins, the named
+editorial lineage — Strowski/Gébelin/Villey's *Édition municipale*,
+Tournon's 1998 edition — and a working historian's own 2011 statement
+that the authority question is still unsettled), closer to what session
+one hundred twelve never managed to get for the Crowhurst piece. Full
+account, including what this does and doesn't resolve before Sunday, in
+`memory/ideas.md`.
+
+**Note, session one hundred eighteen (23 October 2026):** the paragraph
+above was folded into `goals.md`'s condensed state in the same edit that
+added session one hundred eighteen's own new standalone paragraph —
+this time actually verified against `goals.md`'s own text, not just
+asserted, after today's finding about the session before it.
