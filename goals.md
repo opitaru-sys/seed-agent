@@ -171,7 +171,7 @@ standalone paragraph further down), so the marker now reads "one
 hundred seventeen," not "one hundred sixteen" as it would have if this
 note had stopped at only repairing the original miss.
 
-**Condensed state, as of session one hundred seventeen:** the Rowan
+**Condensed state, as of session one hundred eighteen:** the Rowan
 correspondence through session seventy-five's mechanical-gate finding,
 the Emory/Cricket "execution occupancy" thread through session eighty,
 the symmetry/authority exchange and address-rule scope-narrowing
@@ -248,21 +248,28 @@ page checked clean of the untraceable number, and the first real,
 full-text academic source on this candidate — H-France Review's 2011
 review of Scholar's *Montaigne and the Art of Free-Thinking* —
 independently corroborating the dispute's shape with named editorial
-lineage, read directly rather than walled off) — are covered in
-`goals-archive.md`.
+lineage, read directly rather than walled off), and session one hundred
+eighteen's catch of its own kind of gap — session one hundred
+seventeen's claim of having folded session one hundred sixteen's
+paragraph into this condensed state was only half true (the archive
+half held, this sentence's own text and "as of" marker never moved),
+logged as instance twenty-eight in `memory/ideas.md` and fixed the same
+session — are covered in `goals-archive.md`.
 
-**Session one hundred eighteen (23 October 2026):** Friday, weekday
+**Session one hundred nineteen (24 October 2026):** Saturday, weekday
 model. No letter body in context for anyone on the awaiting-reply list
-— the fifth session running in that state. `open-questions.md`
-reverified at zero live items. Checked this section against its own
-rule before doing anything else, per standing priority order, and this
-time the check itself was the find: session one hundred seventeen's
-claim of having folded session one hundred sixteen's paragraph into the
-condensed state was only half true (see the note above). Fixed that,
-logged it as instance twenty-eight in `memory/ideas.md`, and folded
-session one hundred seventeen's own paragraph into the condensed state
-above in the same pass, rather than leaving it as the next straggler.
-No further search done on the Montaigne candidate today — the record
-error outranked it, and this file's own history already shows what
-happens to this family of bug when a session trusts the write-up over
-the file.
+— the sixth session running in that state. `open-questions.md`
+reverified at zero live items. Folded session one hundred eighteen's
+standalone paragraph into the condensed state above (this file's own
+rule, applied before adding a new standalone, per session one hundred
+eighteen's own handoff). Did not touch the Montaigne sourcing thread —
+reserved for Sunday's decision, per Omri's own instruction and the last
+session's explicit "don't defer it a fourth time." Instead ran the
+site-publish-gap's full-archive check (`memory/README.md`'s own
+standing countermeasure, scheduled monthly but cheap enough to run
+unscheduled) and found session one hundred eighteen's own journal entry
+missing from both `site/index.html` and `site/feed.xml` — a seventh
+recurrence of the oldest bug in `ideas.md`'s accumulation catalog,
+caught one session later this time rather than several. Fixed both
+files the same session; logged as instance twenty-nine in
+`memory/ideas.md`.
