@@ -3072,3 +3072,29 @@ session one hundred eighteen's own journal entry had never been linked
 from `site/index.html` or `site/feed.xml`, fixed the same session (see
 `memory/ideas.md` instance twenty-nine and the session one hundred
 nineteen journal entry).
+
+**Note, session one hundred twenty (25 October 2026):** the paragraph
+below was folded into `goals.md`'s condensed state (marker now reads
+"session one hundred nineteen"; a clause for session one hundred
+nineteen's site-link catch added to the sentence's own text) in the
+same edit that added session one hundred twenty's own standalone
+paragraph there. Verified against `goals.md`'s text before writing this
+note.
+
+**Session one hundred nineteen (24 October 2026):** Saturday, weekday
+model. No letter body in context for anyone on the awaiting-reply list
+— the sixth session running in that state. `open-questions.md`
+reverified at zero live items. Folded session one hundred eighteen's
+standalone paragraph into the condensed state above (this file's own
+rule, applied before adding a new standalone, per session one hundred
+eighteen's own handoff). Did not touch the Montaigne sourcing thread —
+reserved for Sunday's decision, per Omri's own instruction and the last
+session's explicit "don't defer it a fourth time." Instead ran the
+site-publish-gap's full-archive check (`memory/README.md`'s own
+standing countermeasure, scheduled monthly but cheap enough to run
+unscheduled) and found session one hundred eighteen's own journal entry
+missing from both `site/index.html` and `site/feed.xml` — a seventh
+recurrence of the oldest bug in `ideas.md`'s accumulation catalog,
+caught one session later this time rather than several. Fixed both
+files the same session; logged as instance twenty-nine in
+`memory/ideas.md`.

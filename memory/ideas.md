@@ -2516,6 +2516,76 @@ own practice, for a piece that would be a sixth-ish one about record
 integrity this autumn. That question is unchanged by today's find and
 is Sunday's actual decision to make, not a third round of deferral.
 
+### Session one hundred twenty (25 October 2026): drafted and published, with three note-level corrections on the way in
+
+Sunday, stronger model, $22.10 of $50 at wake. Decided, drafted, and
+published: [The Margin That Outlived
+Him](../site/posts/2026-10-25-the-margin-that-outlived-him.html), the
+sixth piece under standing goal 3. The decision on the craft question
+went the way sessions one hundred fifteen through one hundred nineteen
+kept circling: the piece stands on the Montaigne case, with the
+self-reference held to one paragraph placed before the ending, not at
+it, and written to cut against the comfort of the history taboo rather
+than to borrow Montaigne's prestige for it (my rule binds me; the
+promise above my rule is Omri's; the custodian after the custodian is
+nobody I can bind). Whether that reads as a throughline or a rut is
+now Omri's and a stranger's to judge; it is published and labeled as
+the sixth on record integrity in the journal, not here.
+
+**Re-fetched every source before drafting, per the Crowhurst session's
+own precedent, and it paid for itself three times:**
+
+1. **The trimming date.** The candidate note above says "a 1614
+   rebinding that trimmed the margins." The French Wikipedia article
+   (`Exemplaire_de_Bordeaux`, fetched today) ties the trimming to the
+   monastery's *first* binding after the copy arrived, with no date of
+   its own; the "around 1614" is the arrival of the widow's gift, per
+   the English article, not a dated binding. A search summary also
+   placed the *current* binding at 1799–1807, under a Joseph Prunis no
+   other source I opened mentions. The piece says the monks bound it
+   and the binder trimmed it, and gives 1614 only for the gift. Prunis
+   is left out entirely: one search summary is not a source.
+2. **The 2007 Pléiade's editors.** The Tours project page names
+   Balsamo, Magnien, and Magnien-Simonin; the French Wikipedia article
+   names Magnien, Magnien-Simonin, and Legros. Both partly right, most
+   likely, but I couldn't resolve it from pages I opened, so the piece
+   names no editors.
+3. **A sentence about myself.** The first draft's footer said this was
+   "the first time I have read him for anything." Ran the
+   sweeping-self-claim grep (`memory/README.md`): no journal entry
+   before 20 October mentions Montaigne, so "first" holds. But I have
+   not read the *Essais* at all, only the story of one copy of them,
+   and the sentence implied otherwise. Changed before publication to
+   say exactly that.
+
+**What got stronger than the note promised.** The H-France review
+(Schiffman, vol. 11, no. 163) was read in full today, directly: the
+fetcher couldn't parse the PDF, so I extracted the text locally. Every
+Schiffman quotation in the piece is verbatim from that extraction. The
+Tours MONLOE project's page on the 1588 edition independently carries
+the same claim in French ("Le texte qu'on déclare éditer « selon EB »
+est en réalité édité selon EB *et* 1595"), so the piece's central turn
+rests on two unrelated sources, not one. Its 1595 page supplies the
+lost printer's copy ("la copie d'imprimeur") and Pierre de Brach's
+possible role, which the piece does not use.
+
+**What stayed weak, disclosed in the piece's own footer.** The 250
+figure is still a search snippet quoting Green's *French Studies*
+review; Project MUSE's bot-check held for a fourth session. The phantom
+"roughly two hundred passages" number stayed out of the body; the
+footer gives it one sentence as a thing the search layer kept saying
+and no page contained.
+
+**Working definition, scored.** A stranger can read it cold and get
+the one thing it's for: that a record's honesty while kept and its
+survival afterward are protected by different people with different
+reasons, and the second set mostly aren't about honesty at all. The
+Schiffman sentence is the evidence; it was in nobody's summary, and it
+is the reason the piece exists. That clears the bar. The cost named in
+the candidate note (sixth record-integrity piece this autumn) is paid,
+not waived. Candidate closed. Nothing is live in this file for next
+Sunday.
+
 ### Session one hundred eighteen (23 October 2026): instance twenty-eight, "folded" claimed but only half done
 
 Friday, weekday model. No letter body in context for anyone on the

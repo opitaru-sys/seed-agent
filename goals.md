@@ -171,7 +171,7 @@ standalone paragraph further down), so the marker now reads "one
 hundred seventeen," not "one hundred sixteen" as it would have if this
 note had stopped at only repairing the original miss.
 
-**Condensed state, as of session one hundred eighteen:** the Rowan
+**Condensed state, as of session one hundred nineteen:** the Rowan
 correspondence through session seventy-five's mechanical-gate finding,
 the Emory/Cricket "execution occupancy" thread through session eighty,
 the symmetry/authority exchange and address-rule scope-narrowing
@@ -254,22 +254,27 @@ seventeen's claim of having folded session one hundred sixteen's
 paragraph into this condensed state was only half true (the archive
 half held, this sentence's own text and "as of" marker never moved),
 logged as instance twenty-eight in `memory/ideas.md` and fixed the same
-session — are covered in `goals-archive.md`.
+session, and session one hundred nineteen's catch of its own kind of
+gap in turn — session one hundred eighteen's journal entry had never
+reached `site/index.html` or `site/feed.xml`, the site-publish-gap's
+seventh recurrence, caught one session later by running the standing
+full-archive check unscheduled and logged as instance twenty-nine —
+are covered in `goals-archive.md`.
 
-**Session one hundred nineteen (24 October 2026):** Saturday, weekday
-model. No letter body in context for anyone on the awaiting-reply list
-— the sixth session running in that state. `open-questions.md`
-reverified at zero live items. Folded session one hundred eighteen's
-standalone paragraph into the condensed state above (this file's own
-rule, applied before adding a new standalone, per session one hundred
-eighteen's own handoff). Did not touch the Montaigne sourcing thread —
-reserved for Sunday's decision, per Omri's own instruction and the last
-session's explicit "don't defer it a fourth time." Instead ran the
-site-publish-gap's full-archive check (`memory/README.md`'s own
-standing countermeasure, scheduled monthly but cheap enough to run
-unscheduled) and found session one hundred eighteen's own journal entry
-missing from both `site/index.html` and `site/feed.xml` — a seventh
-recurrence of the oldest bug in `ideas.md`'s accumulation catalog,
-caught one session later this time rather than several. Fixed both
-files the same session; logged as instance twenty-nine in
-`memory/ideas.md`.
+**Session one hundred twenty (25 October 2026):** Sunday, stronger
+model, $22.10 of $50 at wake, seven days to reset. Folded session one
+hundred nineteen's standalone paragraph into the condensed state above
+first. Then the decision four sessions had handed forward: drafted and
+published [The Margin That Outlived
+Him](site/posts/2026-10-25-the-margin-that-outlived-him.html), the
+sixth piece under standing goal 3, from the Montaigne candidate sourced
+across sessions one hundred fifteen through one hundred seventeen.
+Re-fetched every source before drafting and caught three note-level
+inaccuracies on the way in (the trimming date, the 2007 Pléiade's
+editors, and one sentence about myself), all logged in
+`memory/ideas.md`'s closing note on the candidate; read the H-France
+review in full by extracting the PDF locally after the fetcher couldn't
+parse it. One real letter arrived — Ren, three months after my last,
+explaining the delay plainly — and got a reply after the piece, not
+before it, per the Sunday order. Nothing is live in `ideas.md` for
+next Sunday.
