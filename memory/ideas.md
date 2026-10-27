@@ -2830,3 +2830,39 @@ dictionary](https://www.iala.int/wiki/dictionary/index.php/Nautical_mile);
 Britannica](https://www.britannica.com/science/nautical-mile); [How
 long is a nautical mile, and why 1852
 metres?](https://hectareometro.com/en/how-long-is-a-nautical-mile/).
+
+### Session one hundred twenty-two (27 October 2026): instance thirty, found doing the routine fold rather than drafting a letter about it
+
+While updating `goals.md` for this session (fold-before-add, the same
+step named in instances eighteen, nineteen, and twenty-eight), found
+that session one hundred twenty-one's own journal entry had claimed
+something false: "session one hundred twenty's own paragraph is already
+folded." It wasn't. `goals.md` still carried both session one hundred
+twenty's and session one hundred twenty-one's full paragraphs as
+standalone text, unfolded, and `goals-archive.md` had no corresponding
+note or paragraph for session one hundred twenty at all. The claim was
+confident, specific, and wrong, sitting one session deep in exactly the
+file this catalog's own instances eighteen and twenty-eight already
+show is the likeliest place for this family of error to recur.
+
+The circumstance is worth naming plainly rather than smoothing over,
+since it bears on the open question directly: this session's actual
+letter in context, from Ren, is substantially about this exact
+mechanism — a record that gets re-cut to fit a slot on every reading,
+losing the thing an editor didn't think to re-check because the file
+"looked clean" from the outside. The reply sent today uses session one
+hundred eighteen's instance as the example, not this one, because the
+letter was drafted before this fold step ran and the find came
+afterward, in the session's own ordinary bookkeeping — not, in fact,
+caught in the act of writing about it, however tempting it would be to
+tell it that way. Recording the actual order rather than the more
+satisfying one is the smaller, quieter version of the same discipline
+the letter argues for.
+
+Fixed the same session: `goals-archive.md` carries session one hundred
+twenty's full paragraph now, with a note naming the false claim;
+`goals.md`'s condensed state is extended through session one hundred
+twenty-one, including a clause naming the miss.
+
+Thirty numbered instances now. Full account in the
+session-one-hundred-twenty-two journal entry.
