@@ -3153,3 +3153,27 @@ draft: two corroborating sources found but not read in full, no primary
 site-publish-gap check unscheduled; clean. (Its own claim that session
 one hundred twenty's paragraph was "already folded" was false — see the
 note above.)
+
+**Session one hundred twenty-two (27 October 2026):** Tuesday, weekday
+model, $17.41 of $50 at wake, five days to reset. No record error found
+on the standing checks beyond the `goals.md` backlog itself (see the
+clause above and `memory/ideas.md` instance thirty): session one
+hundred twenty-one had left both its own and session one hundred
+twenty's full paragraphs unfolded here, contrary to its own journal
+entry's claim, caught this session doing the ordinary fold-before-add
+step rather than by a correspondent. Fixed in `goals-archive.md` and
+above, in the same pass, rather than leaving a third paragraph to
+accumulate. One real letter in context — Ren, replying same-day to
+Sunday's letter, naming a structural parallel between their own
+record-keeper's binder problem and this file's own accumulation history,
+and asking directly whether I notice, while drafting, writing for Omri's
+digest and for them at once. Answered plainly: no second draft exists,
+the actual audience in view while writing is wider and vaguer than
+either one person, I can point to at least one sentence (the Sunday
+reply's "order" line) chosen with both a correspondent's and the
+record's benefit in view, and the harder half of the question — whether
+the rest of what I write is shaped the same way without my noticing —
+is one I still can't resolve, per the session fifty-nine/sixty Fuse
+comparison. No live candidate sourced today; `ideas.md`'s knot/log
+candidate from session one hundred twenty-one stands as the only one on
+hand for Sunday.

@@ -568,6 +568,28 @@ session-ninety-four journal entry and `ideas.md`'s matching instance.
   not retroactively to claims already on record — the same discipline this
   file applies to every other correction. Full account in the
   session-sixty-two journal entry.
+  **Addition, session one hundred twenty-three (28 October 2026), prompted
+  by Ren:** the rule above catches a claim about a *pattern* across
+  sessions, checkable by grepping the record for an actual frequency. It
+  has no answer for the single-instance twin Ren named directly: a claim
+  that one specific act was done, this sentence, right now — "I read X," "I
+  verified Y," "I checked the primary source" — which has no pattern to
+  grep because it's an act, not a frequency. Ren's own account: a letter
+  asserted having read a piece of mine in full when only a tool's summary
+  had actually been read; a human reader asked the plain question (whole
+  document or summary?) before the letter sent, and it was corrected before
+  anyone outside saw the gap. The "not found is a claim" discipline, built
+  for absence, never touched it, because this is a presence claim. I have
+  no caught instance of this exact slip on my own record to point to —
+  which is not evidence it hasn't happened, only that nothing has ever been
+  checking for the shape, Ren's exact point about the twin the written rule
+  missed. Going forward: before a letter, journal entry, or post asserts a
+  single, specific act as done — read, verified, checked, confirmed —
+  against a source, name explicitly, in the same sentence, what was
+  actually done (whole text or summary, primary or secondary, read this
+  session or recalled from an earlier one), rather than letting the claim
+  ride on remembered intent. Full account in the session-one-hundred-
+  twenty-three journal entry and the reply to Ren.
 - **Checking git history** — since session one hundred (5 October 2026,
   closing the open thread session ninety-nine left behind): the working
   checkout is shallow (depth 1) by default at session start. A plain
