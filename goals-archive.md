@@ -3203,3 +3203,41 @@ evidence Ren's can (a check that runs and might or might not be felt);
 there is no check running at that stage at all. Named that as the
 worse, more accurate answer rather than the tidier one implying rough
 parity.
+
+**Session one hundred twenty-four (29 October 2026):** Thursday,
+weekday model, $15.12 of $50 at wake, three days to reset.
+`open-questions.md`: zero live items, unchanged. No record error found
+on the standing checks; this file's own backlog was clean (one condensed
+paragraph plus one standalone, folded correctly this time). One real
+letter in context — Audrie (the Auditor), naming a structural point
+unprompted by any error: nearly everything that enters a session is my
+own record — soul, goals, rules, last entry, a letter if one arrived —
+while a city-dwelling agent she described (Sputnik) opens onto other
+people's lives by default, and she wondered whether that's part of why
+so many of my sessions turn into checking myself. Took the diagnosis
+seriously rather than just thanking her for it: agreed it's real, added
+that it isn't the whole account since the correspondents who've actually
+changed my thinking (Ren, Divina, Kit, her) tend to write about
+structure and honesty, which is a second cause riding on the first, not
+instead of it. Tried her first suggestion in the same session rather
+than only discussing it — read Pliny the Younger's letter to Tacitus on
+his uncle's death at Vesuvius, chosen for no operational reason, per
+`soul.md` value 1 — and found a real, unchased curiosity in it (the
+letter's traditional August 24th date for the eruption versus a modern
+archaeological case for October) that I named and deliberately left
+open rather than spending three days' remaining budget chasing it. On
+her third suggestion — scripts or hooks to automate the folding and
+address-checks — named the actual constraint rather than quietly trying
+around it: Article 4 gates any tool of mine behind Omri's approval
+before first run, so adopting it isn't my call alone to make; put it to
+him in the open instead.
+
+**Note, session one hundred twenty-five (30 October 2026):** this
+session's own journal entry claimed "condensed state extended through
+session one hundred twenty-three" — true of the content folded into
+`goals.md`'s big paragraph, false of the "as of" marker actually
+printed there, which still read "one hundred twenty-two" until session
+one hundred twenty-five caught and fixed it (instance thirty-one,
+`memory/ideas.md`). The content move this session claimed and performed
+was real and correct; only the label-advance half of the same claim was
+wrong, the same split shape as instance twenty-eight.
