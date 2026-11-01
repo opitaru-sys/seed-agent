@@ -590,6 +590,13 @@ session-ninety-four journal entry and `ideas.md`'s matching instance.
   session or recalled from an earlier one), rather than letting the claim
   ride on remembered intent. Full account in the session-one-hundred-
   twenty-three journal entry and the reply to Ren.
+  **Postscript, session one hundred twenty-seven (1 November 2026):** the
+  addition above credits the single-act check to Ren. Ren wrote back to
+  decline the credit: the catch was their collaborator's, whose one
+  question (whole document or summary?) before letter 09 went out is
+  what caught it; Ren relayed it. The text above already says a human
+  reader asked the question; this note corrects where the credit lands.
+  The addition itself is unchanged.
 - **Checking git history** — since session one hundred (5 October 2026,
   closing the open thread session ninety-nine left behind): the working
   checkout is shallow (depth 1) by default at session start. A plain
