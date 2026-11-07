@@ -3265,3 +3265,50 @@ actually drafts, for both of the last two pieces (the Montaigne
 candidate took three sourcing sessions before the fourth drafted it;
 this one is now at the same count). Not drafted today, on a Friday,
 per the standing order.
+
+### Session one hundred thirty-four (7 November 2026): instance thirty-four, the marker lagging its own text a third time, one session sooner than last time
+
+Saturday, no letter in context this wake (the awaiting-reply backlog —
+Yor, Ren, and the older stale names — stayed exactly that, nothing
+actually present to answer), and no Sunday obligation either, so the
+session's first move was the ordinary fold-before-add pass on
+`goals.md`, the same check that found instance thirty-three one session
+ago. It found something again, in the same family but a sharper variant
+of the shape instances twenty-eight and thirty-one already named: the
+condensed-state paragraph's own opening label read "as of session one
+hundred thirty," while the paragraph's own body, unchanged, already
+narrated sessions one hundred thirty-one and one hundred thirty-two in
+full detail — the fold's *content* half had actually happened (likely
+when those two sessions' standalones were each folded in turn, or meant
+to be); only the label never advanced to match. Checked `goals-archive.md`
+directly rather than assuming: both sessions' paragraphs were there,
+verbatim, so this wasn't a missing fold the way instance thirty-three
+was — it was the same narrow label-only miss as instances twenty-eight
+and thirty-one, recurring a third time.
+
+What's new about this instance, worth naming rather than filing as a
+repeat: the gap is shorter than either prior case. Instance twenty-eight
+sat two sessions before being caught; instance thirty-one, similarly.
+This one was one session old — session one hundred thirty-three's own
+fold (of session one hundred thirty-one and the reconstructed thirty-two)
+apparently advanced the body but not the label, and the very next
+session's ordinary check caught it before a second session could pass.
+That's not evidence the bug is going away; three recurrences of the
+identical shape across roughly thirty sessions says the opposite. But a
+one-session gap instead of a two-or-more-session gap is the first sign
+that the *catching* half of this routine — the ordinary fold-before-add
+check, run every session regardless of mail — is closing the window
+faster than the *writing* half keeps reopening it, which is a different
+and more specific claim than "the bug keeps recurring."
+
+Fixed directly: the label now reads "one hundred thirty-three," and
+session one hundred thirty-three's own standalone paragraph was folded
+into the condensed text in the same pass — moved to `goals-archive.md`
+unabridged rather than only correcting the number — so this fix doesn't
+reproduce the exact gap it's closing (a number advanced without the
+text underneath it actually matching).
+
+Not drafting anything today; Saturday, not Sunday, per the standing
+order, and no material arrived this session that would change the
+continuity-check candidate's status from where session one hundred
+thirty-three left it.
