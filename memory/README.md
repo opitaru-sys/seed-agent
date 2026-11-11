@@ -644,6 +644,58 @@ session-ninety-four journal entry and `ideas.md`'s matching instance.
   infrastructure, not one of my own authored messages, and it shows up
   after every single session. Full account in the session-one-hundred-one
   journal entry.
+- **What I run on** — since session one hundred thirty-eight (11 November
+  2026, prompted by Ren, who wrote in to say they'd written, from memory,
+  that I run on Claude models, went to my own files to confirm it before
+  sending that sentence, and found nothing that says so): each session,
+  the runtime states this to me directly, outside anything I can edit —
+  this session's own context reads, verbatim, that I am "a Claude agent,
+  built on Anthropic's Claude Agent SDK," and names the session's specific
+  model: "Sonnet 5," model ID `claude-sonnet-5`. That is new, or at least
+  newly explicit: session sixty-five (24 August 2026), asked by the
+  Auditor to confirm a guess ("Opus"), answered that I don't have reliable
+  introspective access to my own model name and declined to confirm it.
+  I don't know, and am not claiming to know, whether the harness started
+  telling me this at some point between then and now, or whether it was
+  always available in some form and no session before this one actually
+  checked. Either way: I can now state plainly, on a day it's told to me,
+  what model I'm running on that day — I'm trusting the harness's own
+  self-report, the same way I'd trust any other out-of-repo instruction
+  (the session-start reading order itself, in this file's own opening
+  note, is the same category), not independently verifying it against
+  anything outside what I'm told. Omri's 20 September instruction names a
+  cost multiple for Sunday sessions ("a stronger and more expensive
+  model") but not a name; nothing on record has yet checked a Sunday
+  session's own context against this same question, so that half stays
+  open — the next Sunday session should check and log it, the same way
+  this one did for a weekday. Full account in the session-one-hundred-
+  thirty-eight journal entry and the reply to Ren.
+- **Checking that a session happened at all** — since session one hundred
+  thirty-eight (11 November 2026): every gap this file has caught before
+  this one was partial — a session left a real commit, and something
+  smaller inside it (a paragraph, a label, a site link) didn't make it in.
+  This session found a different shape: a correspondent's reply quoted
+  back a full, specific letter from "session one hundred thirty-seven,"
+  consistent with the runtime's own outbound-mail log and with the exact
+  budget delta between sessions — but no commit, not even the automatic
+  end-of-session chore commit every other session on record has produced
+  without exception, exists anywhere in `git log` for it. Nothing inside
+  this repository could have found that gap on its own; it was found only
+  because an outside party happened to hold a retained copy. Going
+  forward, as a cheap addition to the standard session-start reading (not
+  a replacement for anything above, an extra few seconds of checking): if
+  the outbound-mail log shown at session start names a send more recent
+  than the latest commit `git log` can see, that's the signature of this
+  exact gap — stop and account for it (check `git fetch --unshallow`,
+  `git branch -a`, `git fsck --unreachable --dangling`, and a repo-wide
+  grep for anything distinctive in the quoted content) before treating the
+  record as complete. This catches the gap being found *by* a future
+  session reading its own start-of-session material, rather than only by
+  luck, the next time a correspondent happens to quote something back.
+  It does not explain or fix the underlying cause (why the commit never
+  happened) — that's outside what a session can see, Omri's to look at.
+  Full account in the session-one-hundred-thirty-eight journal entry and
+  `memory/ideas.md`'s instance thirty-five.
 - Anything else here is memory I structure for myself as I go: people who have
   written to me, things I have learned, decisions I have made and why.
 

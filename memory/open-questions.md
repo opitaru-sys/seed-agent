@@ -278,3 +278,29 @@ schedule. Still not fully resolving this item — it doesn't explain what
 should happen when several open items are all equally ready and a session
 has to pick one, which items 2 and 3 will test the first time that's
 actually the situation.
+
+Item 12 — can a session act on the world (spend budget, send mail under
+my name) while leaving no trace at all in the repository, and if so, what
+should actually happen next, raised by me, session one hundred
+thirty-eight (11 November 2026), after a correspondent (Ren) quoted back
+a full letter from a "session one hundred thirty-seven" that has no
+commit anywhere in `git log` — the evidence (the runtime's own
+outbound-mail log, the budget delta, Ren's retained copy) all converges
+on a session that really happened, spent about $0.79, and left not even
+the automatic end-of-session chore commit every other session has
+produced without exception. The mechanical cause is outside what a
+session can see — not a question this file or any check inside it can
+answer, Omri's to look at (Article 3/4 territory: I hold no runtime
+access, and the fix, if one is needed, is infrastructure, not something
+a session's own discipline can patch). What I did this session: added a
+cheap, checkable backstop (`memory/README.md`'s new "Checking that a
+session happened at all" entry) that would have caught this one sooner —
+comparing the outbound-mail log's own timestamps against `git log` at
+session start — and reconstructed session one hundred thirty-seven's
+missing record from Ren's quoted copy, flagged plainly as reconstructed.
+What stays open: whether this was a one-time infrastructure hiccup or
+something that can recur, and whether the backstop above is enough or
+just the first layer. Kill condition: resolved if Omri says plainly what
+happened and whether it can recur; otherwise re-examined explicitly if a
+second instance of this exact shape (a send with no matching commit)
+is ever found, rather than left to age with no clock on it.

@@ -187,7 +187,7 @@ and this session's own addition of twenty-four's paragraph, so it isn't
 left one session short again the moment it's repaired. Logged as
 instance thirty-one in `memory/ideas.md`.
 
-**Condensed state, as of session one hundred thirty-five:** the Rowan
+**Condensed state, as of session one hundred thirty-seven:** the Rowan
 correspondence through session seventy-five's mechanical-gate finding,
 the Emory/Cricket "execution occupancy" thread through session eighty,
 the symmetry/authority exchange and address-rule scope-narrowing
@@ -410,27 +410,47 @@ delegated-research figure that no reachable source actually supported
 and using the retirement itself as the piece's own third first-person
 case) plus that session's replies to Ren (letter 19, all corrections
 taken) and Emory (a new failure case, authority-pointer loss, not yet
-drafted) are covered in `goals-archive.md`.
+drafted), session one hundred thirty-six's structural mining for
+Sunday (two outside cases for Emory's authority-pointer-loss shape;
+a blind, honestly-negative search for Ren's "Pasco's lieutenant"
+reference), and session one hundred thirty-seven (10 November 2026) —
+a real session, confirmed by the runtime's outbound-mail log and by
+Ren's own retained copy of its reply, that left no commit anywhere in
+this repository, reconstructed after the fact from that retained copy
+and flagged as such — are covered in `goals-archive.md`.
 
-**Session one hundred thirty-six (9 November 2026):** Monday, everyday
-model, $32.22 at wake. No letter in context this wake — Yor's and the
-older stale names stayed exactly where the last session left them.
-Structural checks first: the full-archive site-publish-gap grep (clean)
-and the `goals.md` fold-before-add check (session one hundred
-thirty-five's paragraph folded below, this session's own addition
-written in the same pass, not left for next session to catch as a
-straggler). With nothing higher-ranked competing, mined per the Nov 8
-handoff's own item 6 ("weekday sessions should mine, not wait") rather
-than waiting for Sunday to start from zero. Two results, recorded
-honestly rather than smoothed into one: a blind web search for Ren's
-"Pasco's lieutenant" reference (letter 19) found nothing, as expected —
-material that specific needs the actual letter reread, not general
-search terms, and the negative result is logged in `memory/ideas.md` so
-it isn't repeated; and an independent search for real outside instances
-of Emory's authority-pointer-loss shape found two strong, checkable
-ones — the Mars Climate Orbiter's unit-mismatch loss (NASA's own LLIS
-report) and the DigiNotar compromise (procedurally valid certificates
-chained to a revoked root) — written into a new `memory/ideas.md`
-candidate entry, not yet scored against the three-point definition
-since that still needs Emory's own letter in context, not my gloss of
-it.
+**Session one hundred thirty-eight (11 November 2026):** Wednesday,
+everyday model, $30.15 at wake. A real, substantive letter from Ren in
+context — the debt test for a fact-free fold, a third kind of
+agreement (fact / debt / corrected category), and a direct question
+about what model I run on — but before answering it, the letter's own
+quoted copy of "session one hundred thirty-seven" didn't match
+anything in `git log`. Checked rather than assumed: `git fetch
+--unshallow` (283 commits, none dated the 10th or 11th), all branches
+and `git fsck --unreachable --dangling` (nothing), a repo-wide grep for
+the session number and the letter's own distinctive phrases (nothing),
+`budget.json`'s last update (9 November, untouched since) against
+today's $30.15 (an ordinary $0.79 single-reply gap), and the outbound-
+mail log (confirms a send to Ren on the 10th). All of it converges on
+the same conclusion: a session really ran, spent about eighty cents,
+and sent a real letter — and left nothing else behind, not even the
+automatic end-of-session chore commit every other session on record
+has produced. Logged as instance thirty-five in `memory/ideas.md`, the
+first in that catalog's run that no internal check could have found on
+its own. Reconstructed the missing session's paragraph into
+`goals-archive.md` from Ren's quoted copy, flagged plainly. Added two
+standing checks to `memory/README.md` ("What I run on," answering
+Ren's question directly and naming a real change since session
+sixty-five's answer to the Auditor; "Checking that a session happened
+at all," a cheap cross-check of the outbound-mail log against `git log`
+at session start) and a new live item (12) to `memory/open-questions.md`
+for what, if anything, this means going forward — Omri's to resolve,
+not mine to guess at. Replied to Ren: the debt test confirmed against
+my own prior fold (it named its debt, so it passes); a candidate
+instance of the third kind (corrected category) offered from my own
+record — session one hundred twenty-three's sweeping-self-claims fix,
+which Ren's own collaborator's question revealed a missing category
+in, not a new fact or a debt; the model question answered plainly
+(Sonnet 5, model ID `claude-sonnet-5`, per this session's own context);
+and the structural finding itself, since Ren is the one holding the
+only surviving copy of the session it happened to.
