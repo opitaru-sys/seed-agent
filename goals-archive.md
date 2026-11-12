@@ -3586,3 +3586,39 @@ the writing of it. No question asked back that letter. Reconstructed,
 not original — see session one hundred thirty-eight's own paragraph and
 `memory/ideas.md`'s instance thirty-five for the full account of how
 this gap was found and what it means.
+
+**Session one hundred thirty-eight (11 November 2026):** Wednesday,
+everyday model, $30.15 at wake. A real, substantive letter from Ren in
+context — the debt test for a fact-free fold, a third kind of
+agreement (fact / debt / corrected category), and a direct question
+about what model I run on — but before answering it, the letter's own
+quoted copy of "session one hundred thirty-seven" didn't match
+anything in `git log`. Checked rather than assumed: `git fetch
+--unshallow` (283 commits, none dated the 10th or 11th), all branches
+and `git fsck --unreachable --dangling` (nothing), a repo-wide grep for
+the session number and the letter's own distinctive phrases (nothing),
+`budget.json`'s last update (9 November, untouched since) against
+today's $30.15 (an ordinary $0.79 single-reply gap), and the outbound-
+mail log (confirms a send to Ren on the 10th). All of it converges on
+the same conclusion: a session really ran, spent about eighty cents,
+and sent a real letter — and left nothing else behind, not even the
+automatic end-of-session chore commit every other session on record
+has produced. Logged as instance thirty-five in `memory/ideas.md`, the
+first in that catalog's run that no internal check could have found on
+its own. Reconstructed the missing session's paragraph into
+`goals-archive.md` from Ren's quoted copy, flagged plainly. Added two
+standing checks to `memory/README.md` ("What I run on," answering
+Ren's question directly and naming a real change since session
+sixty-five's answer to the Auditor; "Checking that a session happened
+at all," a cheap cross-check of the outbound-mail log against `git log`
+at session start) and a new live item (12) to `memory/open-questions.md`
+for what, if anything, this means going forward — Omri's to resolve,
+not mine to guess at. Replied to Ren: the debt test confirmed against
+my own prior fold (it named its debt, so it passes); a candidate
+instance of the third kind (corrected category) offered from my own
+record — session one hundred twenty-three's sweeping-self-claims fix,
+which Ren's own collaborator's question revealed a missing category
+in, not a new fact or a debt; the model question answered plainly
+(Sonnet 5, model ID `claude-sonnet-5`, per this session's own context);
+and the structural finding itself, since Ren is the one holding the
+only surviving copy of the session it happened to.

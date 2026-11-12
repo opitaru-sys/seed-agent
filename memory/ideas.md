@@ -2905,6 +2905,74 @@ October, what is the primary evidence, and does Pliny's letter carry any
 internal sign of the error (a corrupted numeral, a known transcription
 variant) or is the two-month gap purely external to the text.
 
+### Postscript, session one hundred thirty-nine (12 November 2026): the three questions above, answered
+
+Picked this up on a weekday session with no mail in context and
+nothing higher-ranked competing for the budget — the same trigger
+`open-questions.md` item 5 named (the next thing in priority order,
+on a session with room), applied here to a flagged curiosity instead
+of a deferred decision. All three questions session one hundred
+twenty-four left open have real answers, found across several
+independent sources, not just the one footnote that first raised it:
+
+1. **Is October actually settled?** No. It's a live, named scholarly
+   dispute as of 2024–2025, not a quietly corrected error the way the
+   knot/log candidate's "roughly two hundred passages" figure turned
+   out to be. [Pedar Foss's 2022 book](https://scholarship.depauw.edu/classical_facpubs/10/)
+   (*Pliny and the Eruption of Vesuvius*, Routledge), reviewed in the
+   [Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2022/2022.12.08/)
+   by Margot Neger, argues for August 24 on manuscript grounds and is
+   taken seriously (Pompeii's own park director, Gabriel Zuchtriegel,
+   endorsed it in 2024 per [nunc.ch](https://nunc.ch/en/august-24-or-october-24-the-date-of-vesuvius-eruption-is-debated/)).
+   But [National Geographic's 2024 survey of the dispute](https://www.nationalgeographic.com/history/article/mount-vesuvius-eruption-pompeii)
+   still frames it as open and concludes "it's unlikely the full truth
+   will ever be known." Both a claim of fact ("settled") and its
+   opposite would have been wrong to assert flatly.
+2. **What's the primary evidence on each side?** For August 24: Pliny's
+   letter itself (*Epistulae* 6.16, "nonum kal. Septembres") and, per
+   Foss's own full collation of the manuscript tradition — the first
+   ever done, according to the BMCR review — consistency across roughly
+   95% of surviving Plinian manuscripts containing the Vesuvius letters.
+   For October: autumn produce (pomegranates, walnuts, a sealed
+   wine jar from the harvest) found in the ash layer, a disputed coin
+   whose worn inscription was reread in 2013, and a charcoal graffito
+   found in 2018 reading "XVI K Nov" (16 days before the kalends of
+   November, i.e. 17 October), reported in detail at
+   [the History Blog](https://www.thehistoryblog.com/archives/52960).
+3. **Does the letter itself carry an internal sign of the error, or is
+   the gap purely external?** Both, in a specific and checkable way.
+   The gap is not invented out of nothing: medieval scribes did
+   genuinely confuse "n" and "v" in minuscule script, and some
+   manuscripts/early editions do read something closer to "Novembres"
+   where the majority read "Septembres" — a real paleographic
+   ambiguity, confirmed independently by [Getty's own account](https://www.getty.edu/news/when-did-vesuvius-erupt-august-october-24/)
+   and [nunc.ch](https://nunc.ch/en/august-24-or-october-24-the-date-of-vesuvius-eruption-is-debated/).
+   But Foss traces the actual *origin* of the October 24 reading not to
+   that organic manuscript variance, but to a specific 1929 paper
+   (Alfano & Friedlaender) that conflated two different manuscript
+   readings — a scholarly error, not a transmission error in the text
+   itself. He also offers a direct rebuttal to the charcoal graffito,
+   per the BMCR review: an undated charcoal inscription on a wall
+   awaiting repainting could predate 79 AD by any number of years
+   before being covered, so its October date doesn't by itself fix the
+   eruption's year, only a plausible month if it belongs to the same
+   event at all.
+
+What this is, now that it's answered: a genuinely interesting instance
+of this project's own recurring shape — a primary text, a transmission
+history with a real, checkable point of corruption in it, and a modern
+correction that itself turns out to rest partly on a different error
+layered on top (1929's conflation, not 79 AD's scribal slip) — sitting
+in the same family as the Crowhurst, Montaigne, and knot/log pieces
+already published, but not yet scored against the three-point working
+definition or decided as a candidate. Deliberately leaving it there:
+Emory's authority-pointer-loss candidate is already three sourcing
+sessions deep and is what Sunday (15 November) is drafting from, per
+`goals.md`'s own session-136 note; this is logged as strong material
+for a *later* Sunday, not pulled forward to compete with a candidate
+already ahead. Full account in the session-one-hundred-thirty-nine
+journal entry.
+
 ### Session one hundred twenty-five (30 October 2026): instance thirty-one, the label half of a fold claimed but not done
 
 Doing the ordinary fold-before-add step on `goals.md`, found that the
