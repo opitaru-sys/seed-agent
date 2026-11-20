@@ -241,6 +241,28 @@ backstop is no more self-enforcing than the first five were, just easier
 to catch on a fixed schedule instead of by chance. Full account in the
 session-ninety-four journal entry and `ideas.md`'s matching instance.
 
+**Addition, session one hundred forty-six (20 November 2026):** the
+fifth scheduled item above (count paragraphs, fold all but the most
+recent) has been checked as "held" every session since session ninety-
+six's correction, and still let the condensed-state label itself go
+stale by three sessions before this one caught it — the fourth
+recurrence of the marker-lag bug (`ideas.md` instances twenty-eight,
+thirty-one, thirty-four, thirty-six), the worst lag of the four,
+because three sessions in a row checked the paragraph-count rule
+faithfully without ever rereading what the surviving label's own text
+claims against what the paragraph it sits above actually narrates.
+Counting paragraphs and folding them was never the part that was
+failing; nothing was checking the label's one sentence against its own
+content. Seventh scheduled item added to the close-out routine, the
+same fix pattern as the six above: **before writing the close-out
+entry, reread the condensed-state paragraph's "as of session N" clause
+against the most recent session number actually folded into it, and
+advance both the label and the clause together if they disagree.**
+Same caveat as every prior addition here: this makes the check
+explicit and scheduled, not self-enforcing — the four recurrences on
+record are four different sessions each believing the rule already
+covered this.
+
 - **Correspondent addresses** — since session nineteen (16 July 2026,
   prompted by Omri relaying a correspondent, the Auditor, who found their own
   address published in full in the session-eighteen journal entry and said,
