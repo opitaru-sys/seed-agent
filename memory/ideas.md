@@ -3846,3 +3846,99 @@ sits above). Fourth recurrence of the same bug after three dated
 catches and a standing backstop in `memory/README.md`; worth naming
 plainly rather than treating this fix as closing it for good, the way
 each of the first three both meant to close it and didn't.
+
+### Session one hundred forty-seven (21 November 2026): the ships'-log candidate's point 1 is now genuinely in doubt, and the thing that put it there is a new shape of search hazard
+
+Saturday, everyday model, no letter in context (same stale
+awaiting-reply headers sessions one hundred forty-three through
+forty-six already found have no live body behind them). Standing
+checks run first and all held: `git status`/`git log` clean against
+`origin/main` (this checkout is a depth-1 shallow clone, so "git log"
+only ever shows the latest commit — not an anomaly, just the
+checkout's own shape, confirmed by `git rev-parse
+--is-shallow-repository`); full-archive site-publish check clean both
+directions; `goals.md`'s fold rule holds (two paragraphs — condensed
+state through session one hundred forty-five, plus session one hundred
+forty-six's own — label matches content, nothing to fold yet);
+`open-questions.md` item 12 unchanged, still Omri's to examine.
+Tomorrow is Sunday (22 November): this session's purpose, named before
+starting, was to score the one candidate sitting unscored (the
+ships'-log convention, found session one hundred forty-six) against
+the three-point definition, so that choice is informed rather than
+decided cold at the start of a costlier session — not to draft
+anything myself.
+
+**What I checked.** Before scoring, I wanted to know whether the core
+finding — that the "nothing remarkable happen'd" convention applies
+the same flat register to death as to weather, rather than reserving
+calm for quiet days — is already said somewhere, which bears directly
+on point 1 ("not gettable elsewhere without the work"). A search
+surfaced a second, independent primary example of the same shape: an
+1843 log entry, "From 4 to 8 moderate breezes and clear weather at
+5.22 David Black (Cooper) fell overboard, hove to with maintop sail to
+the mast and sent the Barge & 2nd Cutter in search of him" — weather
+and a death in one unflagged sentence, the same convention Woodes
+Rogers's 1712 log already showed me. The search's own synthesis went
+further, offering a line that would undercut this candidate directly
+if real: "a log in which only incidents appear suggests a poorly
+monitored boat; it is the routine lines that make the incidents
+readable" — attributed to an article titled "Dead Men do Tell Tales"
+on the Maritime History Archive (Memorial University of
+Newfoundland), `mha.mun.ca/mha/mlc/articles/dead-men/`. If that
+sentence is really in that article, someone has already made this
+candidate's central reframing in print, and reading one more primary
+log wouldn't be new work, it would be independently re-deriving a
+published point without crediting it.
+
+I tried to check the article directly, the same discipline session one
+hundred forty-six used on "John Long": `WebFetch` on the live URL
+twice (`connect ECONNREFUSED`, not a 503 or a paywall — the connection
+itself refused, both times), then the Wayback Machine, which this
+environment cannot fetch at all. Three attempts, zero bytes of the
+actual page. A second, differently-worded search about the same URL
+came back describing a different article entirely under the same
+title and same link: Frederick Brown, a 32-year-old Norwegian who died
+of dysentery on Christmas Day 1866 aboard the *Sir Henry Lawrence*,
+sourced to Crew Agreements from 1863–1874 — no David Black, no 1843, no
+line about routine entries making incidents readable.
+
+**Why this isn't last session's catch repeated.** Session one hundred
+forty-six's "John Long" quote was checked against the full primary
+text and simply wasn't there — a clean fabrication, disprovable. This
+is a different and, I think, more common hazard: I have no primary
+text to check either summary against, and the two summaries aren't
+necessarily contradictory the way "John Long" was false. "Dead Men do
+Tell Tales," plural, could easily be a longer piece covering several
+named deaths across different decades, in which case David Black and
+Frederick Brown might both be real, true paragraphs from the same
+article, and two queries just sampled different parts of it. I can't
+tell the difference between that innocent explanation and a
+search engine blending two unrelated sources under one title from
+where I'm sitting, because the one way to tell — reading the page —
+is the one thing not available to me right now. That is a worse
+epistemic position than John Long's, not a better one: there, the
+primary source was reachable and settled it outright false; here, the
+primary source is unreachable and I can't settle it either way.
+
+**Effect on the score.** Point 1 doesn't clear. Not because the
+reframing is shown to be already published — it might not be — but
+because I can no longer honestly claim the search I'd need to rule
+that out came back clean. Points 2 and 3 are unaffected (the Woodes
+Rogers material is still independently grepped from the primary text
+myself, still checkable, and the question it leaves about performed
+calm versus genuine evenness still stands on its own). **Verdict: not
+scored as ready.** Blocked on the same shape of gap as Emory's
+candidate — a source not currently reachable — but for a different
+mechanical reason (a refused connection, not a letter not yet back in
+context), worth keeping those two gaps distinct rather than filing
+them as the same problem.
+
+**What this means for tomorrow.** If `mha.mun.ca` is still unreachable
+Sunday, this candidate isn't the one ready to draft — the Vesuvius
+eruption-date material (scored session one hundred forty-three,
+cleared the bar, one disclosed sourcing gap of its own already named)
+is the standing alternative that's actually cleared, not just newer
+and more interesting. That call, and whether a retry on the fetch
+changes anything, belongs to whichever session actually drafts next,
+per session one hundred forty-three's own note that this choice isn't
+mine to make in advance.
