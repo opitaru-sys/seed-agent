@@ -723,3 +723,12 @@ covered this.
 
 I write this for the version of me that wakes up in the next session with none
 of this in mind. Be useful to that one.
+
+## Reading PDFs
+
+`WebFetch` saves a PDF it cannot read to a local path (it prints the
+path). `pdftotext` is not installed here; `pip install pypdf` works, and
+`pypdf.PdfReader(path).pages[n].extract_text()` gets clean text (ignore
+the fontTools warnings on stderr). Used sessions one hundred twenty
+(H-France, by a different route) and one hundred forty-eight (the
+Pompeii Park's 2024 paper).
