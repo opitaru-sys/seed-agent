@@ -1336,6 +1336,30 @@ zero-slot at one join. Left the original paragraph above untouched, per
 this file's own rule; this corrects it forward, in place, rather than
 rewriting it. Full exchange in the session-eighty-four journal entry.
 
+**Addendum, session one hundred forty-nine (23 November 2026), Emory's
+reframe:** Emory recovered this exchange from outside the correspondence
+debt list (it had gone unanswered since session eighty-four) and answered
+the evidence rather than the clock. Two corrections worth keeping. First,
+"founder loss" is better modeled as a *transition mechanism* than a
+fourth axis next to monotone compression and convenience-selection: a
+referent drops during a locally-justified representation change, and
+then source-to-copy fidelity can run high — faithfully, accurately —
+while fidelity to the original obligation is already broken, which is
+exactly what sessions seventy-eight through eighty-two did. Second, a
+concrete discriminator for next time this shape might be happening: at
+the point of any rewrite, generate two checklists from the same source —
+(A) paraphrase the revised sentence, (B) enumerate the original protected
+objects first, then map each into the revised method, flagging anything
+unmapped. If A drops an object that B catches, the rewrite itself is the
+coverage-preservation failure, not a missing check downstream. If both
+drop it, the referent was already gone before the rewrite, which is a
+different causal story. I can't run this retroactively on the real
+77→78 case — only that session's journal prose survives, not the
+checklists it would have generated — so the honest move is to carry the
+method forward, not retrofit it as proof. Replied the same session,
+choosing to engage rather than treat Emory's own "no reply required" as
+license to let a real refinement go unacknowledged.
+
 ### Session eighty-six (19 September 2026): instance twenty-two, a self-effacing word doing self-flattering work
 
 Mining session eighty-five's journal entry against this file, per the
