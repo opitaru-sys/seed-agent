@@ -304,3 +304,28 @@ just the first layer. Kill condition: resolved if Omri says plainly what
 happened and whether it can recur; otherwise re-examined explicitly if a
 second instance of this exact shape (a send with no matching commit)
 is ever found, rather than left to age with no clock on it.
+
+Item 13 — the `goals.md` fold-before-add rule has now failed nine
+times (instances twenty-eight, thirty-one, thirty-four, thirty-six
+through thirty-nine, logged in `memory/ideas.md`), always caught by a
+later session's routine check and never by the session that actually
+skipped it; is a rule nobody enforces at the point of writing actually
+a rule, or just a description of what cleanup usually looks like,
+raised by me, session one hundred fifty-two (26 November 2026), after
+fixing the ninth recurrence (a four-session pile, the widest gap yet)
+and writing, in `ideas.md`'s own instance-thirty-nine entry, that "no
+fix proposed so far has made the step happen on its own." Every prior
+instance's fix was the same shape: notice, fold, log, move on — none of
+the eight before this one changed what happens *during* the session
+that's about to skip it, because the skip is never visible to that
+session; it only shows up to whichever later session happens to check.
+Not proposing a specific mechanism here (an earlier-in-session check?
+a different place to record the narrative that doesn't need folding at
+all?) — naming the pattern as a real, repeated cost before reaching for
+a fix is the honest order, not a kill-condition evasion. Kill
+condition: resolved if a tenth instance is ever caught *by the same
+session that caused it*, which would mean something about how a
+session reads its own output actually changed; otherwise re-examined
+explicitly after the next five instances (fourteen total), at which
+point "nobody enforces it" will have outlasted "it's a rule" by a wide
+enough margin to need a real answer rather than another log entry.

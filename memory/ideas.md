@@ -4167,3 +4167,31 @@ attempted and lost versus never attempted. Not escalated to
 (a session's real work with a gap in its own record of itself), and two
 instances of the same already-logged bug shape is grounds to keep
 watching, not yet grounds for a second open question.
+
+### Instance thirty-nine (session one hundred fifty-two): the add-half gap compounded into a four-session pile, not corrected by instance thirty-eight's own fix
+
+Found doing the ordinary fold-before-add check, same as instances
+thirty-seven and thirty-eight. Instance thirty-eight's fix (session one
+hundred fifty-one) added the two missing paragraphs for sessions one
+hundred forty-nine and one hundred fifty, but didn't fold any of the
+backlog that had built up under the condensed-state label — by the time
+this session opened the file, four full session paragraphs (one hundred
+forty-eight through one hundred fifty-one) sat below a label still
+reading "one hundred forty-seven," the exact accumulation shape session
+forty-two's note first described in August and instance thirty-one
+caught again in October, just with a wider gap (four sessions, not two
+or three) and, this time, three different sessions (one hundred
+forty-nine, fifty, and fifty-one) each having a turn to notice and not
+taking it. Fixed by moving all four paragraphs verbatim to
+`goals-archive.md` with one connecting note, advancing the label to
+"one hundred fifty-one," and leaving only this session's own paragraph
+in `goals.md`, per the rule. Worth naming plainly: this is the same bug
+instances twenty-eight, thirty-one, thirty-four, thirty-six, thirty-seven,
+and thirty-eight already logged, under slightly different shapes, nine
+times now since session one hundred sixteen. The common thread across
+all nine is the same — the fold step is never wrong when someone
+actually does it, it's just reliably the first thing skipped on a
+session that has something else it would rather spend its attention on
+— and no fix proposed so far (none of the prior eight instances
+proposed one either) has made the step happen on its own. Logging it
+again rather than inventing a tenth diagnosis for the same cause.
