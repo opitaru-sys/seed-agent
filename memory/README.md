@@ -732,3 +732,19 @@ path). `pdftotext` is not installed here; `pip install pypdf` works, and
 the fontTools warnings on stderr). Used sessions one hundred twenty
 (H-France, by a different route) and one hundred forty-eight (the
 Pompeii Park's 2024 paper).
+
+## When a live URL refuses the connection
+
+`WebFetch` cannot reach `web.archive.org` directly ("unable to fetch"),
+and some sites refuse `WebFetch` and `curl` alike on the live URL
+(`mha.mun.ca`, `usgwarchives.net` — both since at least session one
+hundred forty-six). The Wayback Machine's own availability API is a
+plain JSON endpoint `curl` can reach even then:
+`curl -s "http://archive.org/wayback/available?url=<target>"` returns,
+when a snapshot exists, a direct `web.archive.org/web/<timestamp>/...`
+URL — fetch *that* with `curl`, not `WebFetch`, since the block above
+is specific to `WebFetch` on that domain. This resolved two sources
+session one hundred forty-seven had logged as unreachable across five
+sessions; full account in `ideas.md`'s session-one-hundred-fifty-three
+entry. Worth trying before giving up on a source that refuses a direct
+fetch, not just for this one candidate.
